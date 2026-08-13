@@ -1,0 +1,765 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "modern-normalize",
+          "description": "Normalize browsers' default style. Repo | #CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-25T12:14:32Z",
+            "owner": "sindresorhus",
+            "repo": "modern-normalize",
+            "stars": 7382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ress",
+          "description": "Modern CSS reset. Repo | #CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-08T23:49:32Z",
+            "owner": "filipelinhares",
+            "repo": "ress",
+            "stars": 2079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Natural Selection",
+          "description": "Collection of best-practice CSS selectors. | #CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-04-16T09:49:13Z",
+            "owner": "frontaid",
+            "repo": "natural-selection",
+            "stars": 246
+          }
+        }
+      ],
+      "title": "Base / Reset / Normalize"
+    },
+    {
+      "description": "Frameworks that use semantic HTML and do not rely on classes.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pico.css",
+          "description": "Elegant styles for all native HTML elements, dark mode automatically enabled. Demo, Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-05-09T18:16:06Z",
+            "owner": "picocss",
+            "repo": "pico",
+            "stars": 16781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MVP.css",
+          "description": "Minimalist stylesheet for HTML elements. Docs, Repo | #CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-27T18:01:09Z",
+            "owner": "andybrewer",
+            "repo": "mvp",
+            "stars": 5130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple.css",
+          "description": "Lightweight, classless CSS framework. Demo, Docs, Repo | #CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-19T12:31:23Z",
+            "owner": "kevquirk",
+            "repo": "simple.css",
+            "stars": 4970
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sakura",
+          "description": "Minimal classless CSS framework/theme. Demo, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-07T01:47:31Z",
+            "owner": "oxalorg",
+            "repo": "sakura",
+            "stars": 4387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tacit",
+          "description": "CSS framework for dummies, without classes. Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-08-12T03:38:21Z",
+            "owner": "yegor256",
+            "repo": "tacit",
+            "stars": 1882
+          }
+        }
+      ],
+      "title": "Class-less"
+    },
+    {
+      "description": "Frameworks that are smaller than ~10KB.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pure",
+          "description": "Set of small, responsive CSS modules that you can use in every web project. Demo, Docs, Repo | #CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-14T03:48:55Z",
+            "owner": "pure-css",
+            "repo": "pure",
+            "stars": 23722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Picnic CSS",
+          "description": "Lightweight and beautiful library. Demo, Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-10-03T17:55:24Z",
+            "owner": "franciscop",
+            "repo": "picnic",
+            "stars": 3882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chota",
+          "description": "Really small CSS framework. Demo, Docs, Repo | #CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T03:10:18Z",
+            "owner": "jenil",
+            "repo": "chota",
+            "stars": 1550
+          }
+        }
+      ],
+      "title": "Very Lightweight"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bootstrap",
+          "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. Demo, Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-08-13T03:36:08Z",
+            "owner": "twbs",
+            "repo": "bootstrap",
+            "stars": 174579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bulma",
+          "description": "Modern CSS framework based on Flexbox. Demo, Docs, Repo | #Sass",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-03-01T20:13:02Z",
+            "owner": "jgthms",
+            "repo": "bulma",
+            "stars": 50057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foundation",
+          "description": "The most advanced responsive front-end framework in the world. Demo, Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-01-21T22:11:53Z",
+            "owner": "foundation",
+            "repo": "foundation-sites",
+            "stars": 29788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UIkit",
+          "description": "Lightweight and modular front-end framework for developing fast and powerful web interfaces. Demo, Docs, Repo | #LESS #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-11T15:18:16Z",
+            "owner": "uikit",
+            "repo": "uikit",
+            "stars": 18533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Primer",
+          "description": "CSS framework that powers GitHub's front-end design. Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-08-11T16:01:42Z",
+            "owner": "primer",
+            "repo": "css",
+            "stars": 13000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Carbon Components",
+          "description": "Component library behind IBM's Carbon Design System. Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:04:46Z",
+            "owner": "carbon-design-system",
+            "repo": "carbon",
+            "stars": 9351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "U.S. Web Design System",
+          "description": "Components used by U.S. federal government websites. Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-08-12T21:32:35Z",
+            "owner": "uswds",
+            "repo": "uswds",
+            "stars": 7149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fomantic-UI",
+          "description": "Build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging. Docs, Repo | #LESS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T06:03:17Z",
+            "owner": "fomantic",
+            "repo": "Fomantic-UI",
+            "stars": 3758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cirrus",
+          "description": "Component and utility centric SCSS framework designed for rapid prototyping. Demo, Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-08-10T04:34:23Z",
+            "owner": "Spiderpig86",
+            "repo": "Cirrus",
+            "stars": 1431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vanilla Framework",
+          "description": "Simple, extensible CSS framework. Written by the Canonical Web Team. Demo, Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T03:36:39Z",
+            "owner": "canonical",
+            "repo": "vanilla-framework",
+            "stars": 980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PatternFly",
+          "description": "UI framework for enterprise web applications. Demo, Docs, Repo | #SCSS #LESS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-08-12T20:53:53Z",
+            "owner": "patternfly",
+            "repo": "patternfly",
+            "stars": 811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stacks",
+          "description": "UI components used by Stack Overflow. Docs, Repo | #LESS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:13:48Z",
+            "owner": "StackExchange",
+            "repo": "Stacks",
+            "stars": 668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HiQ",
+          "description": "Simple CSS foundation with responsive typography and input styling. Docs, Repo | #PostCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-01-21T23:33:38Z",
+            "owner": "jonathanharrell",
+            "repo": "hiq",
+            "stars": 328
+          }
+        }
+      ],
+      "title": "General Purpose"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Beer CSS",
+          "description": "Build material design interfaces in record time without stress for devs. Repo | #CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-04T19:40:11Z",
+            "owner": "beercss",
+            "repo": "beercss",
+            "stars": 2568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Materialize",
+          "description": "Responsive front-end library based on Google's Material Design. Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T09:27:54Z",
+            "owner": "materializecss",
+            "repo": "materialize",
+            "stars": 989
+          }
+        }
+      ],
+      "title": "Material Design"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tailwind CSS",
+          "description": "Utility-first CSS framework for rapid UI development. Docs, Repo | #CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:06:39Z",
+            "owner": "tailwindlabs",
+            "repo": "tailwindcss",
+            "stars": 97223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Props",
+          "description": "CSS custom properties to help accelerate adaptive and consistent design. Demo, Docs, Repo | #CSS #PostCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-11T00:41:43Z",
+            "owner": "argyleink",
+            "repo": "open-props",
+            "stars": 5492
+          }
+        }
+      ],
+      "title": "Utility-based"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NES.css",
+          "description": "NES-style CSS Framework. Demo, Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2024-01-17T20:53:09Z",
+            "owner": "nostalgic-css",
+            "repo": "NES.css",
+            "stars": 21803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "98.css",
+          "description": "CSS library for building interfaces that look like Windows 98. Repo | #CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-09-07T13:40:43Z",
+            "owner": "jdan",
+            "repo": "98.css",
+            "stars": 11442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tufte CSS",
+          "description": "Style your webpage like Edward Tufte’s handouts. Repo | #CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-24T23:15:19Z",
+            "owner": "edwardtufte",
+            "repo": "tufte-css",
+            "stars": 6539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gutenberg",
+          "description": "Modern framework to print the web correctly. Demo, Docs | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2024-02-03T04:40:43Z",
+            "owner": "BafS",
+            "repo": "Gutenberg",
+            "stars": 4919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "System.css",
+          "description": "Design system for building retro Apple interfaces. Repo | #PostCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-11-26T15:31:56Z",
+            "owner": "sakofchit",
+            "repo": "system.css",
+            "stars": 3848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XP.css",
+          "description": "CSS library for building interfaces that look like Windows XP. Repo | #PostCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2025-03-08T16:02:01Z",
+            "owner": "botoxparty",
+            "repo": "XP.css",
+            "stars": 3054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "7.css",
+          "description": "CSS library for building interfaces that look like Windows 7. Repo | #PostCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-03-17T15:32:33Z",
+            "owner": "khang-nd",
+            "repo": "7.css",
+            "stars": 2421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TuiCss",
+          "description": "Library to create MS-DOS interfaces. Demo, Docs | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-06-19T14:10:54Z",
+            "owner": "vinibiavatti1",
+            "repo": "TuiCss",
+            "stars": 1965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bojler",
+          "description": "Email framework for developing responsive and lightweight email templates. Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2023-12-06T14:49:22Z",
+            "owner": "Slicejack",
+            "repo": "bojler",
+            "stars": 1052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orbit",
+          "description": "CSS framework designed for building any kind of radial UI. Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-05T02:24:21Z",
+            "owner": "zumerlab",
+            "repo": "orbit",
+            "stars": 762
+          }
+        }
+      ],
+      "title": "Specialized"
+    },
+    {
+      "description": "Frameworks that have not seen any real development for more than about one year or officially have been deprecated. We are keeping them here for reference/inspiration and hope for a revival.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Semantic UI",
+          "description": "User interface is the language of the web. Docs, Repo | #LESS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-27T21:01:48Z",
+            "owner": "Semantic-Org",
+            "repo": "Semantic-UI",
+            "stars": 51026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Components Web",
+          "description": "Modular and customizable Material Design UI components for the web. Demo, Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-01-13T20:42:50Z",
+            "owner": "material-components",
+            "repo": "material-components-web",
+            "stars": 17062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tachyons",
+          "description": "Quickly build and design new UI without writing CSS. Demo, Docs, Repo | #CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-20T15:11:15Z",
+            "owner": "tachyons-css",
+            "repo": "tachyons",
+            "stars": 11717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bourbon",
+          "description": "Lightweight Sass tool set. Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2024-09-13T18:28:12Z",
+            "owner": "thoughtbot",
+            "repo": "bourbon",
+            "stars": 9005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Water.css",
+          "description": "Just-add-CSS collection of styles to make simple websites just a little nicer. Repo | #CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-02-11T14:50:20Z",
+            "owner": "kognise",
+            "repo": "water.css",
+            "stars": 8648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sanitize.css",
+          "description": "The best-practices CSS foundation. Repo | #CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-03-26T11:31:36Z",
+            "owner": "csstools",
+            "repo": "sanitize.css",
+            "stars": 5298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modern-css-reset",
+          "description": "Tiny little reset that you can use as the basis of your CSS projects. Repo | #CSS",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2023-09-26T10:43:23Z",
+            "owner": "Andy-set-studio",
+            "repo": "modern-css-reset",
+            "stars": 2960
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minireset.css",
+          "description": "Tiny modern CSS reset. Repo | #Sass",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-11T11:58:27Z",
+            "owner": "jgthms",
+            "repo": "minireset.css",
+            "stars": 2802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSS Remedy",
+          "description": "Start your project with a remedy for the technical debt of CSS. | #CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-07-07T22:11:37Z",
+            "owner": "jensimmons",
+            "repo": "cssremedy",
+            "stars": 2224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blaze UI",
+          "description": "Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation. Demo, Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-20T15:07:47Z",
+            "owner": "BlazeSoftware",
+            "repo": "atoms",
+            "stars": 1553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Concise CSS",
+          "description": "Give up the bloat. Stop tripping over your classes. Be concise. Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-15T20:07:42Z",
+            "owner": "ConciseCSS",
+            "repo": "concise.css",
+            "stars": 931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Responsive Boilerplate",
+          "description": "Powerful, accessible, developer friendly framework for building responsive websites. Docs, Repo | #SCSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-07-19T00:48:21Z",
+            "owner": "ResponsiveBP",
+            "repo": "Responsive",
+            "stars": 871
+          }
+        }
+      ],
+      "title": "Stalled Development"
+    },
+    {
+      "description": "License CC0 1.0:\nImages of GitHub stars are provided by Shields.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:10:14.074Z",
+    "original_repository": "troxler/awesome-css-frameworks",
+    "original_repository_sha": "6333f76fdd9b5d4e5a6341e95287cea68a8c0dde",
+    "enhanced_repository": "enhansome/enhansome-css-frameworks",
+    "enhanced_repository_description": null,
+    "title": "Awesome CSS Frameworks with stars"
+  }
+}
