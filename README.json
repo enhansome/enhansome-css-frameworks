@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120715537,
             "language": "TypeScript",
             "last_commit": "2026-06-25T12:14:32Z",
             "owner": "sindresorhus",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41049818,
             "language": "CSS",
             "last_commit": "2026-08-08T23:49:32Z",
             "owner": "filipelinhares",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 328124179,
             "language": "CSS",
             "last_commit": "2023-04-16T09:49:13Z",
             "owner": "frontaid",
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221892711,
             "language": "CSS",
             "last_commit": "2026-05-09T18:16:06Z",
             "owner": "picocss",
             "repo": "pico",
-            "stars": 16794
+            "stars": 16797
           }
         },
         {
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243309872,
             "language": "HTML",
             "last_commit": "2026-02-27T18:01:09Z",
             "owner": "andybrewer",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326420723,
             "language": "HTML",
             "last_commit": "2026-07-19T12:31:23Z",
             "owner": "kevquirk",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62117510,
             "language": "HTML",
             "last_commit": "2026-04-07T01:47:31Z",
             "owner": "oxalorg",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33565912,
             "language": "SCSS",
             "last_commit": "2026-08-16T17:12:34Z",
             "owner": "yegor256",
@@ -134,11 +142,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9603240,
             "language": "JavaScript",
             "last_commit": "2026-02-14T03:48:55Z",
             "owner": "pure-css",
             "repo": "pure",
-            "stars": 23721
+            "stars": 23723
           }
         },
         {
@@ -148,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23630882,
             "language": "CSS",
             "last_commit": "2024-10-03T17:55:24Z",
             "owner": "franciscop",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86660875,
             "language": "HTML",
             "last_commit": "2026-08-18T00:16:05Z",
             "owner": "jenil",
@@ -173,7 +184,7 @@
       "title": "Very Lightweight"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -182,11 +193,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2126244,
             "language": "MDX",
-            "last_commit": "2026-08-18T22:39:38Z",
+            "last_commit": "2026-08-19T02:15:32Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174609
+            "stars": 174612
           }
         },
         {
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50264296,
             "language": "CSS",
             "last_commit": "2026-03-01T20:13:02Z",
             "owner": "jgthms",
@@ -210,11 +223,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2573058,
             "language": "HTML",
             "last_commit": "2025-01-21T22:11:53Z",
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29785
+            "stars": 29786
           }
         },
         {
@@ -224,11 +238,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11507163,
             "language": "HTML",
             "last_commit": "2026-08-18T06:57:27Z",
             "owner": "uikit",
             "repo": "uikit",
-            "stars": 18527
+            "stars": 18525
           }
         },
         {
@@ -238,11 +253,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32551735,
             "language": "SCSS",
             "last_commit": "2026-08-18T23:40:11Z",
             "owner": "primer",
             "repo": "css",
-            "stars": 13004
+            "stars": 13007
           }
         },
         {
@@ -252,11 +268,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84835535,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T20:05:46Z",
+            "last_commit": "2026-08-19T10:05:15Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9368
+            "stars": 9371
           }
         },
         {
@@ -266,11 +283,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35968578,
             "language": "SCSS",
             "last_commit": "2026-08-18T22:03:05Z",
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7150
+            "stars": 7151
           }
         },
         {
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135989792,
             "language": "JavaScript",
             "last_commit": "2026-08-18T18:51:27Z",
             "owner": "fomantic",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77105582,
             "language": "SCSS",
             "last_commit": "2026-08-10T04:34:23Z",
             "owner": "Spiderpig86",
@@ -308,8 +328,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31207344,
             "language": "HTML",
-            "last_commit": "2026-08-17T10:33:08Z",
+            "last_commit": "2026-08-19T09:54:49Z",
             "owner": "canonical",
             "repo": "vanilla-framework",
             "stars": 980
@@ -322,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122507459,
             "language": "SCSS",
             "last_commit": "2026-08-17T20:31:46Z",
             "owner": "patternfly",
@@ -336,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109884266,
             "language": "TypeScript",
             "last_commit": "2026-08-18T22:39:38Z",
             "owner": "StackExchange",
@@ -350,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90506412,
             "language": "CSS",
             "last_commit": "2026-01-21T23:33:38Z",
             "owner": "jonathanharrell",
@@ -361,7 +385,7 @@
       "title": "General Purpose"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -370,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 319921698,
             "language": "Vue",
             "last_commit": "2026-08-04T19:40:11Z",
             "owner": "beercss",
@@ -384,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260783668,
             "language": "TypeScript",
             "last_commit": "2026-08-17T10:04:59Z",
             "owner": "materializecss",
@@ -395,7 +421,7 @@
       "title": "Material Design"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -404,11 +430,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106017343,
             "language": "TypeScript",
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97278
+            "stars": 97282
           }
         },
         {
@@ -418,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402643958,
             "language": "HTML",
             "last_commit": "2026-08-11T00:41:43Z",
             "owner": "argyleink",
@@ -429,7 +457,7 @@
       "title": "Utility-based"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -438,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150042589,
             "language": "SCSS",
             "last_commit": "2024-01-17T20:53:09Z",
             "owner": "nostalgic-css",
@@ -452,11 +481,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256372328,
             "language": "CSS",
             "last_commit": "2025-09-07T13:40:43Z",
             "owner": "jdan",
             "repo": "98.css",
-            "stars": 11450
+            "stars": 11452
           }
         },
         {
@@ -466,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25253178,
             "language": "HTML",
             "last_commit": "2026-06-24T23:15:19Z",
             "owner": "edwardtufte",
@@ -480,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44615084,
             "language": "SCSS",
             "last_commit": "2024-02-03T04:40:43Z",
             "owner": "BafS",
@@ -494,11 +526,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 521764618,
             "language": "CSS",
             "last_commit": "2023-11-26T15:31:56Z",
             "owner": "sakofchit",
             "repo": "system.css",
-            "stars": 3856
+            "stars": 3858
           }
         },
         {
@@ -508,11 +541,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263911790,
             "language": "SCSS",
             "last_commit": "2025-03-08T16:02:01Z",
             "owner": "botoxparty",
             "repo": "XP.css",
-            "stars": 3059
+            "stars": 3061
           }
         },
         {
@@ -522,11 +556,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325447896,
             "language": "SCSS",
             "last_commit": "2026-03-17T15:32:33Z",
             "owner": "khang-nd",
             "repo": "7.css",
-            "stars": 2422
+            "stars": 2425
           }
         },
         {
@@ -536,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148467749,
             "language": "SCSS",
             "last_commit": "2026-06-19T14:10:54Z",
             "owner": "vinibiavatti1",
@@ -550,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53932129,
             "language": "SCSS",
             "last_commit": "2023-12-06T14:49:22Z",
             "owner": "Slicejack",
@@ -564,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 607167827,
             "language": "JavaScript",
             "last_commit": "2026-07-05T02:24:21Z",
             "owner": "zumerlab",
@@ -584,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9309093,
             "language": "JavaScript",
             "last_commit": "2024-11-27T21:01:48Z",
             "owner": "Semantic-Org",
@@ -598,11 +637,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75642389,
             "language": "TypeScript",
             "last_commit": "2025-01-13T20:42:50Z",
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17055
+            "stars": 17056
           }
         },
         {
@@ -612,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14106970,
             "language": "CSS",
             "last_commit": "2026-07-20T15:11:15Z",
             "owner": "tachyons-css",
@@ -626,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1653882,
             "language": "Ruby",
             "last_commit": "2024-09-13T18:28:12Z",
             "owner": "thoughtbot",
@@ -640,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179574410,
             "language": "CSS",
             "last_commit": "2024-02-11T14:50:20Z",
             "owner": "kognise",
@@ -654,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6566489,
             "language": "CSS",
             "last_commit": "2026-03-26T11:31:36Z",
             "owner": "csstools",
@@ -668,6 +712,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 212096660,
             "language": "CSS",
             "last_commit": "2023-09-26T10:43:23Z",
             "owner": "Andy-set-studio",
@@ -682,6 +727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66643668,
             "language": "JavaScript",
             "last_commit": "2024-07-11T11:58:27Z",
             "owner": "jgthms",
@@ -696,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165123638,
             "language": "CSS",
             "last_commit": "2022-07-07T22:11:37Z",
             "owner": "jensimmons",
@@ -710,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46132380,
             "language": "TypeScript",
             "last_commit": "2023-06-20T15:07:47Z",
             "owner": "BlazeSoftware",
@@ -724,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20370985,
             "language": "JavaScript",
             "last_commit": "2023-04-15T20:07:42Z",
             "owner": "ConciseCSS",
@@ -738,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10639547,
             "language": "HTML",
             "last_commit": "2023-07-19T00:48:21Z",
             "owner": "ResponsiveBP",
@@ -747,16 +797,12 @@
         }
       ],
       "title": "Stalled Development"
-    },
-    {
-      "description": "License CC0 1.0:\nImages of GitHub stars are provided by Shields.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:41:51.952Z",
+    "last_updated": "2026-08-19T12:24:57.965Z",
     "original_repository": "troxler/awesome-css-frameworks",
+    "original_repository_id": 102095278,
     "original_repository_sha": "6333f76fdd9b5d4e5a6341e95287cea68a8c0dde",
     "enhanced_repository": "enhansome/enhansome-css-frameworks",
     "enhanced_repository_description": null,
