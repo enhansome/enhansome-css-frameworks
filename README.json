@@ -66,7 +66,7 @@
             "last_commit": "2026-05-09T18:16:06Z",
             "owner": "picocss",
             "repo": "pico",
-            "stars": 16806
+            "stars": 16811
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-02-14T03:48:55Z",
             "owner": "pure-css",
             "repo": "pure",
-            "stars": 23721
+            "stars": 23723
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-22T03:57:33Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174640
+            "stars": 174639
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-03-01T20:13:02Z",
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50054
+            "stars": 50055
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2025-01-21T22:11:53Z",
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29787
+            "stars": 29785
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-21T11:05:07Z",
             "owner": "uikit",
             "repo": "uikit",
-            "stars": 18527
+            "stars": 18528
           }
         },
         {
@@ -270,10 +270,10 @@
             "archived": false,
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T14:09:44Z",
+            "last_commit": "2026-08-23T14:11:19Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9377
+            "stars": 9379
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-08-21T19:50:16Z",
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7156
+            "stars": 7157
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-08-04T19:40:11Z",
             "owner": "beercss",
             "repo": "beercss",
-            "stars": 2574
+            "stars": 2575
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97287
+            "stars": 97303
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2026-08-11T00:41:43Z",
             "owner": "argyleink",
             "repo": "open-props",
-            "stars": 5498
+            "stars": 5499
           }
         }
       ],
@@ -471,7 +471,7 @@
             "last_commit": "2024-01-17T20:53:09Z",
             "owner": "nostalgic-css",
             "repo": "NES.css",
-            "stars": 21809
+            "stars": 21812
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2025-09-07T13:40:43Z",
             "owner": "jdan",
             "repo": "98.css",
-            "stars": 11454
+            "stars": 11458
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2023-11-26T15:31:56Z",
             "owner": "sakofchit",
             "repo": "system.css",
-            "stars": 3863
+            "stars": 3865
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2026-03-17T15:32:33Z",
             "owner": "khang-nd",
             "repo": "7.css",
-            "stars": 2427
+            "stars": 2429
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2026-06-19T14:10:54Z",
             "owner": "vinibiavatti1",
             "repo": "TuiCss",
-            "stars": 1966
+            "stars": 1967
           }
         },
         {
@@ -800,7 +800,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:40:59.141Z",
+    "last_updated": "2026-08-23T23:41:06.710Z",
     "original_repository": "troxler/awesome-css-frameworks",
     "original_repository_id": 102095278,
     "original_repository_sha": "6333f76fdd9b5d4e5a6341e95287cea68a8c0dde",
