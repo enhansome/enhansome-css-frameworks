@@ -198,7 +198,7 @@
             "last_commit": "2026-08-22T03:57:33Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174639
+            "stars": 174640
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-03-01T20:13:02Z",
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50055
+            "stars": 50054
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-21T11:05:07Z",
             "owner": "uikit",
             "repo": "uikit",
-            "stars": 18528
+            "stars": 18529
           }
         },
         {
@@ -255,7 +255,7 @@
             "archived": false,
             "id": 32551735,
             "language": "SCSS",
-            "last_commit": "2026-08-19T21:39:44Z",
+            "last_commit": "2026-08-24T05:33:39Z",
             "owner": "primer",
             "repo": "css",
             "stars": 13009
@@ -270,10 +270,10 @@
             "archived": false,
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T14:11:19Z",
+            "last_commit": "2026-08-24T13:36:11Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9379
+            "stars": 9384
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-08-21T19:50:16Z",
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7157
+            "stars": 7158
           }
         },
         {
@@ -300,7 +300,7 @@
             "archived": false,
             "id": 135989792,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T14:38:27Z",
+            "last_commit": "2026-08-24T06:03:58Z",
             "owner": "fomantic",
             "repo": "Fomantic-UI",
             "stars": 3761
@@ -330,7 +330,7 @@
             "archived": false,
             "id": 31207344,
             "language": "HTML",
-            "last_commit": "2026-08-21T15:21:42Z",
+            "last_commit": "2026-08-24T12:38:32Z",
             "owner": "canonical",
             "repo": "vanilla-framework",
             "stars": 980
@@ -360,7 +360,7 @@
             "archived": false,
             "id": 109884266,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T16:20:00Z",
+            "last_commit": "2026-08-24T10:40:48Z",
             "owner": "StackExchange",
             "repo": "Stacks",
             "stars": 668
@@ -399,7 +399,7 @@
             "last_commit": "2026-08-04T19:40:11Z",
             "owner": "beercss",
             "repo": "beercss",
-            "stars": 2575
+            "stars": 2576
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97303
+            "stars": 97313
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2026-06-24T23:15:19Z",
             "owner": "edwardtufte",
             "repo": "tufte-css",
-            "stars": 6541
+            "stars": 6542
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2023-11-26T15:31:56Z",
             "owner": "sakofchit",
             "repo": "system.css",
-            "stars": 3865
+            "stars": 3866
           }
         },
         {
@@ -576,7 +576,7 @@
             "last_commit": "2026-06-19T14:10:54Z",
             "owner": "vinibiavatti1",
             "repo": "TuiCss",
-            "stars": 1967
+            "stars": 1968
           }
         },
         {
@@ -613,7 +613,7 @@
       "title": "Specialized"
     },
     {
-      "description": "Frameworks that have not seen any real development for more than about one year or officially have been deprecated. We are keeping them here for reference/inspiration and hope for a revival.",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -627,7 +627,7 @@
             "last_commit": "2024-11-27T21:01:48Z",
             "owner": "Semantic-Org",
             "repo": "Semantic-UI",
-            "stars": 51027
+            "stars": 51026
           }
         },
         {
@@ -702,7 +702,7 @@
             "last_commit": "2026-03-26T11:31:36Z",
             "owner": "csstools",
             "repo": "sanitize.css",
-            "stars": 5300
+            "stars": 5301
           }
         },
         {
@@ -796,11 +796,11 @@
           }
         }
       ],
-      "title": "Stalled Development"
+      "title": "Show Section"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:41:06.710Z",
+    "last_updated": "2026-08-24T13:52:44.576Z",
     "original_repository": "troxler/awesome-css-frameworks",
     "original_repository_id": 102095278,
     "original_repository_sha": "6333f76fdd9b5d4e5a6341e95287cea68a8c0dde",
