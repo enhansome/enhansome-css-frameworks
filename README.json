@@ -147,7 +147,7 @@
             "last_commit": "2026-02-14T03:48:55Z",
             "owner": "pure-css",
             "repo": "pure",
-            "stars": 23722
+            "stars": 23721
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-24T20:35:07Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174642
+            "stars": 174646
           }
         },
         {
@@ -255,7 +255,7 @@
             "archived": false,
             "id": 32551735,
             "language": "SCSS",
-            "last_commit": "2026-08-24T05:33:39Z",
+            "last_commit": "2026-08-25T05:33:40Z",
             "owner": "primer",
             "repo": "css",
             "stars": 13010
@@ -270,7 +270,7 @@
             "archived": false,
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T23:07:32Z",
+            "last_commit": "2026-08-25T05:40:12Z",
             "owner": "carbon-design-system",
             "repo": "carbon",
             "stars": 9385
@@ -303,7 +303,7 @@
             "last_commit": "2026-08-24T06:03:58Z",
             "owner": "fomantic",
             "repo": "Fomantic-UI",
-            "stars": 3761
+            "stars": 3762
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2026-08-14T19:43:34Z",
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97319
+            "stars": 97324
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2025-09-07T13:40:43Z",
             "owner": "jdan",
             "repo": "98.css",
-            "stars": 11459
+            "stars": 11460
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2025-03-08T16:02:01Z",
             "owner": "botoxparty",
             "repo": "XP.css",
-            "stars": 3064
+            "stars": 3066
           }
         },
         {
@@ -800,7 +800,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:41:51.797Z",
+    "last_updated": "2026-08-25T05:47:31.796Z",
     "original_repository": "troxler/awesome-css-frameworks",
     "original_repository_id": 102095278,
     "original_repository_sha": "6333f76fdd9b5d4e5a6341e95287cea68a8c0dde",
