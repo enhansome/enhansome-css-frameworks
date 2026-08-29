@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐒 Normalize browsers' default style",
+            "homepage": null,
             "id": 120715537,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-25T12:14:32Z",
+            "open_issues": 28,
             "owner": "sindresorhus",
             "repo": "modern-normalize",
-            "stars": 7390
+            "stars": 7391,
+            "topics": [
+              "css",
+              "css-library",
+              "css-reset",
+              "normalize",
+              "normalize-css",
+              "npm-package"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -26,12 +38,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚿 A modern CSS reset",
+            "homepage": "https://ress.page",
             "id": 41049818,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-08-08T23:49:32Z",
+            "open_issues": 2,
             "owner": "filipelinhares",
             "repo": "ress",
-            "stars": 2079
+            "stars": 2079,
+            "topics": [
+              "css",
+              "reset",
+              "ress"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -42,12 +63,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS Boilerplate / Starter Kit: Collection of best-practice CSS selectors",
+            "homepage": "https://frontaid.ch/web/css/",
             "id": 328124179,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-04-16T09:49:13Z",
+            "open_issues": 0,
             "owner": "frontaid",
             "repo": "natural-selection",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "boilerplate",
+              "css",
+              "css-framework",
+              "css-library",
+              "framework",
+              "selector"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         }
@@ -64,12 +97,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal CSS Framework for semantic HTML",
+            "homepage": "https://picocss.com",
             "id": 221892711,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-05-09T18:16:06Z",
+            "open_issues": 124,
             "owner": "picocss",
             "repo": "pico",
-            "stars": 16821
+            "stars": 16825,
+            "topics": [
+              "css",
+              "css-framework",
+              "dark-mode",
+              "dark-theme",
+              "lightweight",
+              "minimal",
+              "minimalist",
+              "minimalistic",
+              "native-html",
+              "scss",
+              "scss-framework",
+              "semantic"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -80,12 +131,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MVP.css — Minimalist classless CSS stylesheet for HTML elements",
+            "homepage": "https://andybrewer.github.io/mvp/",
             "id": 243309872,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-02-27T18:01:09Z",
+            "open_issues": 0,
             "owner": "andybrewer",
             "repo": "mvp",
-            "stars": 5129
+            "stars": 5129,
+            "topics": [
+              "classless",
+              "classless-css",
+              "css",
+              "cssframework",
+              "semantic-ui"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -96,12 +158,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple.css is a CSS template that allows you to make a good looking website really quickly.",
+            "homepage": "https://simplecss.org",
             "id": 326420723,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-19T12:31:23Z",
+            "open_issues": 0,
             "owner": "kevquirk",
             "repo": "simple.css",
-            "stars": 4983
+            "stars": 4983,
+            "topics": [
+              "css",
+              "css3",
+              "html"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -112,12 +183,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":cherry_blossom: a minimal css framework/theme.",
+            "homepage": "https://oxal.org/projects/sakura",
             "id": 62117510,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-04-07T01:47:31Z",
+            "open_issues": 19,
             "owner": "oxalorg",
             "repo": "sakura",
-            "stars": 4386
+            "stars": 4386,
+            "topics": [
+              "classless",
+              "classless-theme",
+              "css",
+              "css-framework",
+              "design",
+              "sakura",
+              "theme",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -128,12 +213,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages",
+            "homepage": "https://yegor256.github.io/tacit/",
             "id": 33565912,
             "language": "SCSS",
-            "last_commit": "2026-08-28T05:10:49Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:02:23Z",
+            "open_issues": 9,
             "owner": "yegor256",
             "repo": "tacit",
-            "stars": 1884
+            "stars": 1884,
+            "topics": [
+              "css",
+              "css-framework",
+              "css3",
+              "dummies",
+              "grunt",
+              "html",
+              "html5",
+              "responsive"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         }
@@ -150,12 +249,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of small, responsive CSS modules that you can use in every web project.",
+            "homepage": "http://purecss.io/",
             "id": 9603240,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-14T03:48:55Z",
+            "open_issues": 30,
             "owner": "pure-css",
             "repo": "pure",
-            "stars": 23726
+            "stars": 23726,
+            "topics": [
+              "css",
+              "html",
+              "pure"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -166,12 +274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":handbag: A beautiful CSS library to kickstart your projects",
+            "homepage": "http://picnicss.com/",
             "id": 23630882,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-10-03T17:55:24Z",
+            "open_issues": 16,
             "owner": "franciscop",
             "repo": "picnic",
-            "stars": 3881
+            "stars": 3881,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -182,12 +295,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A micro (3kb) CSS framework",
+            "homepage": "https://jenil.github.io/chota/",
             "id": 86660875,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-18T00:16:05Z",
+            "open_issues": 26,
             "owner": "jenil",
             "repo": "chota",
-            "stars": 1550
+            "stars": 1550,
+            "topics": [
+              "css",
+              "framework",
+              "front-end",
+              "minimal",
+              "web",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         }
@@ -204,12 +329,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+            "homepage": "https://getbootstrap.com",
             "id": 2126244,
             "language": "MDX",
-            "last_commit": "2026-08-27T18:22:57Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:30:38Z",
+            "open_issues": 224,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174666
+            "stars": 174668,
+            "topics": [
+              "bootstrap",
+              "css",
+              "css-framework",
+              "html",
+              "javascript",
+              "sass",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -220,12 +358,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern CSS framework based on Flexbox",
+            "homepage": "https://bulma.io",
             "id": 50264296,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-03-01T20:13:02Z",
+            "open_issues": 527,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50063
+            "stars": 50063,
+            "topics": [
+              "css",
+              "css-framework",
+              "design",
+              "flexbox",
+              "html"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -236,12 +385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.",
+            "homepage": "https://get.foundation",
             "id": 2573058,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-01-21T22:11:53Z",
+            "open_issues": 80,
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29787
+            "stars": 29786,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -252,12 +406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight and modular front-end framework for developing fast and powerful web interfaces",
+            "homepage": "http://getuikit.com",
             "id": 11507163,
             "language": "HTML",
-            "last_commit": "2026-08-21T11:05:07Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T11:03:33Z",
+            "open_issues": 609,
             "owner": "uikit",
             "repo": "uikit",
-            "stars": 18533
+            "stars": 18532,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -268,12 +427,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Primer is GitHub's design system. This is the CSS implementation",
+            "homepage": "https://primer.style/css",
             "id": 32551735,
             "language": "SCSS",
-            "last_commit": "2026-08-28T05:35:25Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T16:16:01Z",
+            "open_issues": 5,
             "owner": "primer",
             "repo": "css",
-            "stars": 13009
+            "stars": 13009,
+            "topics": [
+              "css",
+              "design-system",
+              "design-systems",
+              "framework",
+              "meta",
+              "primer",
+              "primer-css",
+              "sass",
+              "styleguide",
+              "ui-components"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -284,12 +459,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A design system built by IBM",
+            "homepage": "https://www.carbondesignsystem.com",
             "id": 84835535,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T01:41:18Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:01:07Z",
+            "open_issues": 1027,
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9389
+            "stars": 9392,
+            "topics": [
+              "design-system",
+              "hacktoberfest",
+              "javascript",
+              "react",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -300,12 +486,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.",
+            "homepage": "https://designsystem.digital.gov",
             "id": 35968578,
             "language": "SCSS",
-            "last_commit": "2026-08-27T21:49:50Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:50:45Z",
+            "open_issues": 360,
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7164
+            "stars": 7165,
+            "topics": [
+              "design",
+              "design-systems",
+              "government",
+              "uswds"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -316,12 +512,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fomantic-UI is the official community fork of Semantic-UI",
+            "homepage": "https://fomantic-ui.com",
             "id": 135989792,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:03:25Z",
+            "open_issues": 257,
             "owner": "fomantic",
             "repo": "Fomantic-UI",
-            "stars": 3763
+            "stars": 3763,
+            "topics": [
+              "component-library",
+              "css",
+              "css-framework",
+              "fomantic",
+              "fomantic-ui",
+              "fork",
+              "hacktoberfest",
+              "javascript",
+              "semantic",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -332,12 +544,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":cloud: The SCSS framework for the modern web.",
+            "homepage": "https://www.cirrus-ui.com/",
             "id": 77105582,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2026-08-10T04:34:23Z",
+            "open_issues": 29,
             "owner": "Spiderpig86",
             "repo": "Cirrus",
-            "stars": 1431
+            "stars": 1430,
+            "topics": [
+              "card",
+              "cirrus",
+              "css",
+              "css-framework",
+              "css-grid",
+              "css3",
+              "flexbox",
+              "font",
+              "front-end",
+              "responsive",
+              "sass",
+              "sass-framework",
+              "scss",
+              "scss-framework",
+              "stylesheet",
+              "stylesheets",
+              "ui",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -348,12 +584,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.",
+            "homepage": "https://vanillaframework.io",
             "id": 31207344,
             "language": "HTML",
-            "last_commit": "2026-08-27T12:13:07Z",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-08-28T09:41:05Z",
+            "open_issues": 244,
             "owner": "canonical",
             "repo": "vanilla-framework",
-            "stars": 981
+            "stars": 981,
+            "topics": [
+              "css",
+              "css-framework",
+              "hack",
+              "hacktoberfest",
+              "html",
+              "npm",
+              "npm-package",
+              "package",
+              "sass",
+              "vanilla-framework",
+              "web-and-design"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -364,12 +617,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo contains core (HTML/CSS) implementation for PatternFly. Issues related to CSS/HTML and layout should be filed here.",
+            "homepage": "https://patternfly.org",
             "id": 122507459,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2026-08-27T20:50:50Z",
+            "open_issues": 279,
             "owner": "patternfly",
             "repo": "patternfly",
-            "stars": 812
+            "stars": 813,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -380,12 +640,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stack Overflow’s Design System",
+            "homepage": "https://stackoverflow.design",
             "id": 109884266,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:57:11Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T17:27:00Z",
+            "open_issues": 56,
             "owner": "StackExchange",
             "repo": "Stacks",
-            "stars": 669
+            "stars": 670,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -396,12 +661,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, progressive, high-IQ CSS framework.",
+            "homepage": "https://jonathanharrell.github.io/hiq/",
             "id": 90506412,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-01-21T23:33:38Z",
+            "open_issues": 8,
             "owner": "jonathanharrell",
             "repo": "hiq",
-            "stars": 328
+            "stars": 328,
+            "topics": [
+              "css",
+              "custom-properties",
+              "postcss",
+              "responsive-typography"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         }
@@ -418,12 +693,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build material design interfaces in record time... without stress for devs... 🍺💛",
+            "homepage": "https://www.beercss.com",
             "id": 319921698,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-08-04T19:40:11Z",
+            "open_issues": 29,
             "owner": "beercss",
             "repo": "beercss",
-            "stars": 2579
+            "stars": 2579,
+            "topics": [
+              "css",
+              "design-system",
+              "html",
+              "material",
+              "material-3",
+              "material-3-design",
+              "material-3-expressive",
+              "material-design-3",
+              "material-you",
+              "semantic-html",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -434,12 +726,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materialize, a web framework based on Material Design",
+            "homepage": "https://materializeweb.com/",
             "id": 260783668,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T10:04:59Z",
+            "open_issues": 51,
             "owner": "materializecss",
             "repo": "materialize",
-            "stars": 990
+            "stars": 990,
+            "topics": [
+              "css",
+              "css-framework",
+              "js",
+              "material",
+              "material-design",
+              "material-ui",
+              "materialize",
+              "materializecss"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         }
@@ -456,12 +762,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A utility-first CSS framework for rapid UI development.",
+            "homepage": "https://tailwindcss.com/",
             "id": 106017343,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-14T19:43:34Z",
+            "open_issues": 61,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97364
+            "stars": 97375,
+            "topics": [
+              "css",
+              "css-framework",
+              "functional-css",
+              "postcss",
+              "responsive",
+              "tailwindcss",
+              "utility-classes"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -472,12 +791,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS custom properties to help accelerate adaptive and consistent design.",
+            "homepage": "https://open-props.style",
             "id": 402643958,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-11T00:41:43Z",
+            "open_issues": 76,
             "owner": "argyleink",
             "repo": "open-props",
-            "stars": 5502
+            "stars": 5502,
+            "topics": [
+              "css",
+              "css-colors",
+              "css-custom-media-queries",
+              "css-custom-properties",
+              "css-easing-functions",
+              "css-gradients",
+              "css-normalise",
+              "css-utilites"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         }
@@ -494,12 +827,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+            "homepage": "https://nostalgic-css.github.io/NES.css/",
             "id": 150042589,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2024-01-17T20:53:09Z",
+            "open_issues": 78,
             "owner": "nostalgic-css",
             "repo": "NES.css",
-            "stars": 21821
+            "stars": 21820,
+            "topics": [
+              "8bit",
+              "css",
+              "css-framework",
+              "nes",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -510,12 +854,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A design system for building faithful recreations of old UIs",
+            "homepage": "https://jdan.github.io/98.css",
             "id": 256372328,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-09-07T13:40:43Z",
+            "open_issues": 44,
             "owner": "jdan",
             "repo": "98.css",
-            "stars": 11461
+            "stars": 11462,
+            "topics": [
+              "css",
+              "design-system",
+              "guy-fieri",
+              "windows98"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -526,12 +880,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Style your webpage like Edward Tufte’s handouts.",
+            "homepage": "https://edwardtufte.github.io/tufte-css/",
             "id": 25253178,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-06-24T23:15:19Z",
+            "open_issues": 8,
             "owner": "edwardtufte",
             "repo": "tufte-css",
-            "stars": 6546
+            "stars": 6547,
+            "topics": [
+              "css",
+              "tufte-css"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -542,12 +904,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern framework to print the web correctly.                                               ",
+            "homepage": "https://bafs.github.io/Gutenberg",
             "id": 44615084,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2024-02-03T04:40:43Z",
+            "open_issues": 7,
             "owner": "BafS",
             "repo": "Gutenberg",
-            "stars": 4922
+            "stars": 4922,
+            "topics": [
+              "css",
+              "css-framework",
+              "framework",
+              "print",
+              "print-framework",
+              "printer",
+              "printing",
+              "scss",
+              "scss-framework"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -558,12 +935,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A design system for building retro Apple interfaces",
+            "homepage": "https://sakofchit.github.io/system.css/",
             "id": 521764618,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-11-26T15:31:56Z",
+            "open_issues": 10,
             "owner": "sakofchit",
             "repo": "system.css",
-            "stars": 3869
+            "stars": 3870,
+            "topics": [
+              "classic-macos",
+              "css",
+              "design-system",
+              "hacktoberfest",
+              "hacktoberfest2022",
+              "macos"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -574,12 +963,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CSS framework for building faithful recreations of operating system GUIs.",
+            "homepage": "https://botoxparty.github.io/XP.css/",
             "id": 263911790,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2025-03-08T16:02:01Z",
+            "open_issues": 24,
             "owner": "botoxparty",
             "repo": "XP.css",
-            "stars": 3067
+            "stars": 3067,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -590,12 +984,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JS-independent, tree-shakeable CSS framework for building faithful recreations of the Windows 7 UI.",
+            "homepage": "https://khang-nd.github.io/7.css/",
             "id": 325447896,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2026-03-17T15:32:33Z",
+            "open_issues": 10,
             "owner": "khang-nd",
             "repo": "7.css",
-            "stars": 2430
+            "stars": 2431,
+            "topics": [
+              "css",
+              "html",
+              "scss",
+              "ui-design",
+              "windows-7"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -606,12 +1011,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Text-based user interface CSS library",
+            "homepage": null,
             "id": 148467749,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2026-06-19T14:10:54Z",
+            "open_issues": 4,
             "owner": "vinibiavatti1",
             "repo": "TuiCss",
-            "stars": 1968
+            "stars": 1968,
+            "topics": [
+              "ascii",
+              "css",
+              "curses",
+              "framework",
+              "framework-css",
+              "html5",
+              "layout",
+              "msdos",
+              "ncurses",
+              "terminal",
+              "text-based",
+              "tui",
+              "turbo-vision",
+              "window"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -622,12 +1047,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bojler is an email framework",
+            "homepage": "https://bojler.slicejack.com",
             "id": 53932129,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2023-12-06T14:49:22Z",
+            "open_issues": 7,
             "owner": "Slicejack",
             "repo": "bojler",
-            "stars": 1050
+            "stars": 1050,
+            "topics": [
+              "css",
+              "css-framework",
+              "email",
+              "email-template",
+              "framework",
+              "grid",
+              "html-email",
+              "reset",
+              "templates",
+              "typography",
+              "utilities"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -638,12 +1080,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💫 Orbit is a framework designed for building any kind of radial UI.",
+            "homepage": "https://zumerlab.com/orbit-docs/",
             "id": 607167827,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-05T02:24:21Z",
+            "open_issues": 0,
             "owner": "zumerlab",
             "repo": "orbit",
-            "stars": 763
+            "stars": 763,
+            "topics": [
+              "composer",
+              "css",
+              "css-framework",
+              "design-system",
+              "hacktoberfest",
+              "html",
+              "radial",
+              "scss",
+              "ui",
+              "ux",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         }
@@ -660,12 +1119,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semantic is a UI component framework based around useful principles from natural language.",
+            "homepage": "http://www.semantic-ui.com",
             "id": 9309093,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-27T21:01:48Z",
+            "open_issues": 1070,
             "owner": "Semantic-Org",
             "repo": "Semantic-UI",
-            "stars": 51027
+            "stars": 51026,
+            "topics": [
+              "button",
+              "css-framework",
+              "dropdown",
+              "flexbox",
+              "popup",
+              "semantic",
+              "sidebar",
+              "tooltip",
+              "ui",
+              "ui-components"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -676,12 +1151,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Modular and customizable Material Design UI components for the web",
+            "homepage": "https://material.io/develop/web",
             "id": 75642389,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-01-13T20:42:50Z",
+            "open_issues": 0,
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17057
+            "stars": 17056,
+            "topics": [
+              "css",
+              "javascript",
+              "material-components",
+              "material-design",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -692,12 +1178,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional css for humans",
+            "homepage": "https://tachyons.io",
             "id": 14106970,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-07-20T15:11:15Z",
+            "open_issues": 90,
             "owner": "tachyons-css",
             "repo": "tachyons",
-            "stars": 11718
+            "stars": 11718,
+            "topics": [
+              "css",
+              "design",
+              "design-patterns",
+              "design-systems",
+              "design-tools",
+              "frontend",
+              "functional-css",
+              "html",
+              "responsive"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -708,12 +1209,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Lightweight Sass Tool Set",
+            "homepage": "https://www.bourbon.io/",
             "id": 1653882,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-09-13T18:28:12Z",
+            "open_issues": 0,
             "owner": "thoughtbot",
             "repo": "bourbon",
-            "stars": 9004
+            "stars": 9004,
+            "topics": [
+              "bourbon",
+              "bourbon-family",
+              "css",
+              "sass",
+              "sass-functions",
+              "sass-library",
+              "sass-mixins",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -724,12 +1239,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A drop-in collection of CSS styles to make simple websites just a little nicer",
+            "homepage": "https://watercss.kognise.dev",
             "id": 179574410,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-02-11T14:50:20Z",
+            "open_issues": 89,
             "owner": "kognise",
             "repo": "water.css",
-            "stars": 8648
+            "stars": 8649,
+            "topics": [
+              "css",
+              "css-framework",
+              "hacktoberfest",
+              "minimal",
+              "simple"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -740,12 +1266,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A best-practices CSS foundation",
+            "homepage": "https://csstools.github.io/sanitize.css",
             "id": 6566489,
             "language": "CSS",
+            "license": "CC0-1.0",
             "last_commit": "2026-03-26T11:31:36Z",
+            "open_issues": 22,
             "owner": "csstools",
             "repo": "sanitize.css",
-            "stars": 5302
+            "stars": 5302,
+            "topics": [
+              "css",
+              "normalization",
+              "opinionated"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -756,12 +1291,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A bare-bones CSS reset for modern web development.",
+            "homepage": "https://hankchizljaw.com/wrote/a-modern-css-reset/",
             "id": 212096660,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-09-26T10:43:23Z",
+            "open_issues": 20,
             "owner": "Andy-set-studio",
             "repo": "modern-css-reset",
-            "stars": 2960
+            "stars": 2960,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -772,12 +1312,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny modern CSS reset",
+            "homepage": "http://jgthms.com/minireset.css/",
             "id": 66643668,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-11T11:58:27Z",
+            "open_issues": 16,
             "owner": "jgthms",
             "repo": "minireset.css",
-            "stars": 2801
+            "stars": 2801,
+            "topics": [
+              "css",
+              "reset"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -788,12 +1336,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Start your project with a remedy for the technical debt of CSS. ",
+            "homepage": null,
             "id": 165123638,
             "language": "CSS",
+            "license": "MPL-2.0",
             "last_commit": "2022-07-07T22:11:37Z",
+            "open_issues": 37,
             "owner": "jensimmons",
             "repo": "cssremedy",
-            "stars": 2224
+            "stars": 2224,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -804,12 +1357,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Atoms for Blaze UI",
+            "homepage": "https://www.blazeui.com",
             "id": 46132380,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-06-20T15:07:47Z",
+            "open_issues": 4,
             "owner": "BlazeSoftware",
             "repo": "atoms",
-            "stars": 1553
+            "stars": 1553,
+            "topics": [
+              "bem",
+              "css",
+              "itcss",
+              "jsx",
+              "sass",
+              "scss",
+              "stencil",
+              "stenciljs",
+              "toolkit",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -820,12 +1389,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CSS framework that's lightweight and easy-to-use. Give up the bloat. Stop tripping over your classes. Be Concise.",
+            "homepage": "http://concisecss.com",
             "id": 20370985,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-15T20:07:42Z",
+            "open_issues": 8,
             "owner": "ConciseCSS",
             "repo": "concise.css",
-            "stars": 931
+            "stars": 931,
+            "topics": [
+              "css",
+              "design",
+              "framework",
+              "minimalist",
+              "postcss",
+              "sass"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         },
@@ -836,12 +1417,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":iphone: A super lightweight HTML, Sass, CSS, and JavaScript framework for building responsive websites",
+            "homepage": "http://responsivebp.com",
             "id": 10639547,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-07-19T00:48:21Z",
+            "open_issues": 14,
             "owner": "ResponsiveBP",
             "repo": "Responsive",
-            "stars": 871
+            "stars": 871,
+            "topics": [
+              "accessibility",
+              "css",
+              "html5",
+              "javascript",
+              "responsive-grid",
+              "rwd",
+              "sass"
+            ]
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
         }
@@ -850,15 +1444,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:58:08.433Z",
+    "last_updated": "2026-08-29T04:12:37.480Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of awesome CSS frameworks in 2026",
+      "homepage": "https://frontaid.ch/web/ui/libraries.html",
       "id": 102095278,
       "language": "CSS",
+      "license": null,
       "last_commit": "2026-06-08T20:32:07Z",
+      "open_issues": 4,
       "owner": "troxler",
       "repo": "awesome-css-frameworks",
-      "stars": 9499
+      "stars": 9499,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "collection",
+        "css",
+        "css-framework",
+        "framework",
+        "list",
+        "scss"
+      ]
     },
     "original_repository_sha": "6333f76fdd9b5d4e5a6341e95287cea68a8c0dde",
     "enhanced_repository": "enhansome/enhansome-css-frameworks",
