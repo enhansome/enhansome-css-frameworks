@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "sindresorhus",
             "repo": "modern-normalize",
-            "stars": 7399,
+            "stars": 7400,
             "topics": [
               "css",
               "css-library",
@@ -106,7 +106,7 @@
             "open_issues": 126,
             "owner": "picocss",
             "repo": "pico",
-            "stars": 16845,
+            "stars": 16847,
             "topics": [
               "css",
               "css-framework",
@@ -167,7 +167,7 @@
             "open_issues": 0,
             "owner": "kevquirk",
             "repo": "simple.css",
-            "stars": 4986,
+            "stars": 4991,
             "topics": [
               "css",
               "css3",
@@ -258,7 +258,7 @@
             "open_issues": 31,
             "owner": "pure-css",
             "repo": "pure",
-            "stars": 23725,
+            "stars": 23724,
             "topics": [
               "css",
               "html",
@@ -335,10 +335,10 @@
             "language": "MDX",
             "license": "MIT",
             "last_commit": "2026-09-06T05:49:50Z",
-            "open_issues": 233,
+            "open_issues": 235,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174733,
+            "stars": 174738,
             "topics": [
               "bootstrap",
               "css",
@@ -394,7 +394,7 @@
             "open_issues": 81,
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29782,
+            "stars": 29783,
             "topics": []
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
@@ -432,7 +432,7 @@
             "id": 32551735,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-09-04T05:35:10Z",
+            "last_commit": "2026-09-07T17:33:09Z",
             "open_issues": 12,
             "owner": "primer",
             "repo": "css",
@@ -464,11 +464,11 @@
             "id": 84835535,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T14:16:44Z",
-            "open_issues": 1026,
+            "last_commit": "2026-09-07T14:21:23Z",
+            "open_issues": 1033,
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9435,
+            "stars": 9439,
             "topics": [
               "design-system",
               "hacktoberfest",
@@ -492,7 +492,7 @@
             "language": "SCSS",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T22:03:05Z",
-            "open_issues": 353,
+            "open_issues": 355,
             "owner": "uswds",
             "repo": "uswds",
             "stars": 7175,
@@ -517,8 +517,8 @@
             "id": 135989792,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T06:03:20Z",
-            "open_issues": 255,
+            "last_commit": "2026-09-07T06:02:45Z",
+            "open_issues": 257,
             "owner": "fomantic",
             "repo": "Fomantic-UI",
             "stars": 3765,
@@ -553,7 +553,7 @@
             "open_issues": 29,
             "owner": "Spiderpig86",
             "repo": "Cirrus",
-            "stars": 1430,
+            "stars": 1429,
             "topics": [
               "card",
               "cirrus",
@@ -589,7 +589,7 @@
             "id": 31207344,
             "language": "HTML",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-04T20:16:03Z",
+            "last_commit": "2026-09-08T00:40:19Z",
             "open_issues": 253,
             "owner": "canonical",
             "repo": "vanilla-framework",
@@ -645,8 +645,8 @@
             "id": 109884266,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T05:32:23Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-07T15:52:44Z",
+            "open_issues": 57,
             "owner": "StackExchange",
             "repo": "Stacks",
             "stars": 671,
@@ -702,7 +702,7 @@
             "open_issues": 30,
             "owner": "beercss",
             "repo": "beercss",
-            "stars": 2595,
+            "stars": 2599,
             "topics": [
               "css",
               "design-system",
@@ -732,7 +732,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-17T10:04:59Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "materializecss",
             "repo": "materialize",
             "stars": 990,
@@ -768,10 +768,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-02T10:29:13Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97462,
+            "stars": 97481,
             "topics": [
               "css",
               "css-framework",
@@ -800,7 +800,7 @@
             "open_issues": 77,
             "owner": "argyleink",
             "repo": "open-props",
-            "stars": 5511,
+            "stars": 5512,
             "topics": [
               "css",
               "css-colors",
@@ -836,7 +836,7 @@
             "open_issues": 78,
             "owner": "nostalgic-css",
             "repo": "NES.css",
-            "stars": 21824,
+            "stars": 21825,
             "topics": [
               "8bit",
               "css",
@@ -863,7 +863,7 @@
             "open_issues": 44,
             "owner": "jdan",
             "repo": "98.css",
-            "stars": 11476,
+            "stars": 11481,
             "topics": [
               "css",
               "design-system",
@@ -913,7 +913,7 @@
             "open_issues": 7,
             "owner": "BafS",
             "repo": "Gutenberg",
-            "stars": 4923,
+            "stars": 4922,
             "topics": [
               "css",
               "css-framework",
@@ -972,7 +972,7 @@
             "open_issues": 24,
             "owner": "botoxparty",
             "repo": "XP.css",
-            "stars": 3078,
+            "stars": 3079,
             "topics": []
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
@@ -1160,7 +1160,7 @@
             "open_issues": 0,
             "owner": "material-components",
             "repo": "material-components-web",
-            "stars": 17051,
+            "stars": 17053,
             "topics": [
               "css",
               "javascript",
@@ -1187,7 +1187,7 @@
             "open_issues": 91,
             "owner": "tachyons-css",
             "repo": "tachyons",
-            "stars": 11719,
+            "stars": 11720,
             "topics": [
               "css",
               "design",
@@ -1248,7 +1248,7 @@
             "open_issues": 89,
             "owner": "kognise",
             "repo": "water.css",
-            "stars": 8652,
+            "stars": 8650,
             "topics": [
               "css",
               "css-framework",
@@ -1275,7 +1275,7 @@
             "open_issues": 22,
             "owner": "csstools",
             "repo": "sanitize.css",
-            "stars": 5306,
+            "stars": 5307,
             "topics": [
               "css",
               "normalization",
@@ -1366,7 +1366,7 @@
             "open_issues": 4,
             "owner": "BlazeSoftware",
             "repo": "atoms",
-            "stars": 1553,
+            "stars": 1552,
             "topics": [
               "bem",
               "css",
@@ -1444,7 +1444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:07:58.587Z",
+    "last_updated": "2026-09-08T01:15:05.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome CSS frameworks in 2026",
@@ -1456,7 +1456,7 @@
       "open_issues": 4,
       "owner": "troxler",
       "repo": "awesome-css-frameworks",
-      "stars": 9509,
+      "stars": 9508,
       "topics": [
         "awesome",
         "awesome-list",
