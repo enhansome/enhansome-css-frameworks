@@ -106,7 +106,7 @@
             "open_issues": 128,
             "owner": "picocss",
             "repo": "pico",
-            "stars": 16875,
+            "stars": 16876,
             "topics": [
               "css",
               "css-framework",
@@ -167,7 +167,7 @@
             "open_issues": 1,
             "owner": "kevquirk",
             "repo": "simple.css",
-            "stars": 5015,
+            "stars": 5016,
             "topics": [
               "css",
               "css3",
@@ -338,7 +338,7 @@
             "open_issues": 229,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174981,
+            "stars": 174984,
             "topics": [
               "bootstrap",
               "css",
@@ -776,7 +776,7 @@
             "open_issues": 91,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 97751,
+            "stars": 97754,
             "topics": [
               "css",
               "css-framework",
@@ -894,7 +894,7 @@
             "open_issues": 8,
             "owner": "edwardtufte",
             "repo": "tufte-css",
-            "stars": 6570,
+            "stars": 6571,
             "topics": [
               "css",
               "tufte-css"
@@ -1115,341 +1115,348 @@
       "title": "Specialized"
     },
     {
-      "description": null,
+      "description": "Frameworks that have not seen any real development for more than about one year or officially have been deprecated. We are keeping them here for reference/inspiration and hope for a revival.",
       "items": [
         {
-          "node_type": "item",
-          "title": "Semantic UI",
-          "description": "User interface is the language of the web. Docs, Repo | #LESS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Semantic is a UI component framework based around useful principles from natural language.",
-            "homepage": "http://www.semantic-ui.com",
-            "id": 9309093,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2024-11-27T21:01:48Z",
-            "open_issues": 1071,
-            "owner": "Semantic-Org",
-            "repo": "Semantic-UI",
-            "stars": 51025,
-            "topics": [
-              "button",
-              "css-framework",
-              "dropdown",
-              "flexbox",
-              "popup",
-              "semantic",
-              "sidebar",
-              "tooltip",
-              "ui",
-              "ui-components"
-            ]
-          },
-          "first_seen": "2026-08-28T06:58:08.433Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Material Components Web",
-          "description": "Modular and customizable Material Design UI components for the web. Demo, Docs, Repo | #SCSS",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Modular and customizable Material Design UI components for the web",
-            "homepage": "https://material.io/develop/web",
-            "id": 75642389,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2025-01-13T20:42:50Z",
-            "open_issues": 0,
-            "owner": "material-components",
-            "repo": "material-components-web",
-            "stars": 17045,
-            "topics": [
-              "css",
-              "javascript",
-              "material-components",
-              "material-design",
-              "web"
-            ]
-          },
-          "first_seen": "2026-08-28T06:58:08.433Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Tachyons",
-          "description": "Quickly build and design new UI without writing CSS. Demo, Docs, Repo | #CSS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Functional css for humans",
-            "homepage": "https://tachyons.io",
-            "id": 14106970,
-            "language": "CSS",
-            "license": "MIT",
-            "last_commit": "2026-07-20T15:11:15Z",
-            "open_issues": 89,
-            "owner": "tachyons-css",
-            "repo": "tachyons",
-            "stars": 11726,
-            "topics": [
-              "css",
-              "design",
-              "design-patterns",
-              "design-systems",
-              "design-tools",
-              "frontend",
-              "functional-css",
-              "html",
-              "responsive"
-            ]
-          },
-          "first_seen": "2026-08-28T06:58:08.433Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bourbon",
-          "description": "Lightweight Sass tool set. Docs, Repo | #SCSS",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "A Lightweight Sass Tool Set",
-            "homepage": "https://www.bourbon.io/",
-            "id": 1653882,
-            "language": "Ruby",
-            "license": "MIT",
-            "last_commit": "2024-09-13T18:28:12Z",
-            "open_issues": 0,
-            "owner": "thoughtbot",
-            "repo": "bourbon",
-            "stars": 8997,
-            "topics": [
-              "bourbon",
-              "bourbon-family",
-              "css",
-              "sass",
-              "sass-functions",
-              "sass-library",
-              "sass-mixins",
-              "scss"
-            ]
-          },
-          "first_seen": "2026-08-28T06:58:08.433Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Water.css",
-          "description": "Just-add-CSS collection of styles to make simple websites just a little nicer. Repo | #CSS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A drop-in collection of CSS styles to make simple websites just a little nicer",
-            "homepage": "https://watercss.kognise.dev",
-            "id": 179574410,
-            "language": "CSS",
-            "license": "MIT",
-            "last_commit": "2024-02-11T14:50:20Z",
-            "open_issues": 90,
-            "owner": "kognise",
-            "repo": "water.css",
-            "stars": 8652,
-            "topics": [
-              "css",
-              "css-framework",
-              "hacktoberfest",
-              "minimal",
-              "simple"
-            ]
-          },
-          "first_seen": "2026-08-28T06:58:08.433Z"
-        },
-        {
-          "node_type": "item",
-          "title": "sanitize.css",
-          "description": "The best-practices CSS foundation. Repo | #CSS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A best-practices CSS foundation",
-            "homepage": "https://csstools.github.io/sanitize.css",
-            "id": 6566489,
-            "language": "CSS",
-            "license": "CC0-1.0",
-            "last_commit": "2026-03-26T11:31:36Z",
-            "open_issues": 22,
-            "owner": "csstools",
-            "repo": "sanitize.css",
-            "stars": 5309,
-            "topics": [
-              "css",
-              "normalization",
-              "opinionated"
-            ]
-          },
-          "first_seen": "2026-08-28T06:58:08.433Z"
-        },
-        {
-          "node_type": "item",
-          "title": "modern-css-reset",
-          "description": "Tiny little reset that you can use as the basis of your CSS projects. Repo | #CSS",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "A bare-bones CSS reset for modern web development.",
-            "homepage": "https://hankchizljaw.com/wrote/a-modern-css-reset/",
-            "id": 212096660,
-            "language": "CSS",
-            "license": "MIT",
-            "last_commit": "2023-09-26T10:43:23Z",
-            "open_issues": 20,
-            "owner": "Andy-set-studio",
-            "repo": "modern-css-reset",
-            "stars": 2955,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:58:08.433Z"
-        },
-        {
-          "node_type": "item",
-          "title": "minireset.css",
-          "description": "Tiny modern CSS reset. Repo | #Sass",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A tiny modern CSS reset",
-            "homepage": "http://jgthms.com/minireset.css/",
-            "id": 66643668,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2024-07-11T11:58:27Z",
-            "open_issues": 16,
-            "owner": "jgthms",
-            "repo": "minireset.css",
-            "stars": 2800,
-            "topics": [
-              "css",
-              "reset"
-            ]
-          },
-          "first_seen": "2026-08-28T06:58:08.433Z"
-        },
-        {
-          "node_type": "item",
-          "title": "CSS Remedy",
-          "description": "Start your project with a remedy for the technical debt of CSS. | #CSS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Start your project with a remedy for the technical debt of CSS. ",
-            "homepage": null,
-            "id": 165123638,
-            "language": "CSS",
-            "license": "MPL-2.0",
-            "last_commit": "2022-07-07T22:11:37Z",
-            "open_issues": 37,
-            "owner": "jensimmons",
-            "repo": "cssremedy",
-            "stars": 2224,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:58:08.433Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Blaze UI",
-          "description": "Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation. Demo, Docs, Repo | #SCSS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Atoms for Blaze UI",
-            "homepage": "https://www.blazeui.com",
-            "id": 46132380,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2023-06-20T15:07:47Z",
-            "open_issues": 4,
-            "owner": "BlazeSoftware",
-            "repo": "atoms",
-            "stars": 1551,
-            "topics": [
-              "bem",
-              "css",
-              "itcss",
-              "jsx",
-              "sass",
-              "scss",
-              "stencil",
-              "stenciljs",
-              "toolkit",
-              "webcomponents"
-            ]
-          },
-          "first_seen": "2026-08-28T06:58:08.433Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Concise CSS",
-          "description": "Give up the bloat. Stop tripping over your classes. Be concise. Docs, Repo | #SCSS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A CSS framework that's lightweight and easy-to-use. Give up the bloat. Stop tripping over your classes. Be Concise.",
-            "homepage": "http://concisecss.com",
-            "id": 20370985,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2023-04-15T20:07:42Z",
-            "open_issues": 8,
-            "owner": "ConciseCSS",
-            "repo": "concise.css",
-            "stars": 928,
-            "topics": [
-              "css",
-              "design",
-              "framework",
-              "minimalist",
-              "postcss",
-              "sass"
-            ]
-          },
-          "first_seen": "2026-08-28T06:58:08.433Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Responsive Boilerplate",
-          "description": "Powerful, accessible, developer friendly framework for building responsive websites. Docs, Repo | #SCSS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":iphone: A super lightweight HTML, Sass, CSS, and JavaScript framework for building responsive websites",
-            "homepage": "http://responsivebp.com",
-            "id": 10639547,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2023-07-19T00:48:21Z",
-            "open_issues": 14,
-            "owner": "ResponsiveBP",
-            "repo": "Responsive",
-            "stars": 870,
-            "topics": [
-              "accessibility",
-              "css",
-              "html5",
-              "javascript",
-              "responsive-grid",
-              "rwd",
-              "sass"
-            ]
-          },
-          "first_seen": "2026-08-28T06:58:08.433Z"
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Semantic UI",
+              "description": "User interface is the language of the web. Docs, Repo | #LESS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Semantic is a UI component framework based around useful principles from natural language.",
+                "homepage": "http://www.semantic-ui.com",
+                "id": 9309093,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2024-11-27T21:01:48Z",
+                "open_issues": 1071,
+                "owner": "Semantic-Org",
+                "repo": "Semantic-UI",
+                "stars": 51025,
+                "topics": [
+                  "button",
+                  "css-framework",
+                  "dropdown",
+                  "flexbox",
+                  "popup",
+                  "semantic",
+                  "sidebar",
+                  "tooltip",
+                  "ui",
+                  "ui-components"
+                ]
+              },
+              "first_seen": "2026-08-28T06:58:08.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Material Components Web",
+              "description": "Modular and customizable Material Design UI components for the web. Demo, Docs, Repo | #SCSS",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Modular and customizable Material Design UI components for the web",
+                "homepage": "https://material.io/develop/web",
+                "id": 75642389,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2025-01-13T20:42:50Z",
+                "open_issues": 0,
+                "owner": "material-components",
+                "repo": "material-components-web",
+                "stars": 17045,
+                "topics": [
+                  "css",
+                  "javascript",
+                  "material-components",
+                  "material-design",
+                  "web"
+                ]
+              },
+              "first_seen": "2026-08-28T06:58:08.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Tachyons",
+              "description": "Quickly build and design new UI without writing CSS. Demo, Docs, Repo | #CSS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Functional css for humans",
+                "homepage": "https://tachyons.io",
+                "id": 14106970,
+                "language": "CSS",
+                "license": "MIT",
+                "last_commit": "2026-07-20T15:11:15Z",
+                "open_issues": 89,
+                "owner": "tachyons-css",
+                "repo": "tachyons",
+                "stars": 11726,
+                "topics": [
+                  "css",
+                  "design",
+                  "design-patterns",
+                  "design-systems",
+                  "design-tools",
+                  "frontend",
+                  "functional-css",
+                  "html",
+                  "responsive"
+                ]
+              },
+              "first_seen": "2026-08-28T06:58:08.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Bourbon",
+              "description": "Lightweight Sass tool set. Docs, Repo | #SCSS",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "A Lightweight Sass Tool Set",
+                "homepage": "https://www.bourbon.io/",
+                "id": 1653882,
+                "language": "Ruby",
+                "license": "MIT",
+                "last_commit": "2024-09-13T18:28:12Z",
+                "open_issues": 0,
+                "owner": "thoughtbot",
+                "repo": "bourbon",
+                "stars": 8997,
+                "topics": [
+                  "bourbon",
+                  "bourbon-family",
+                  "css",
+                  "sass",
+                  "sass-functions",
+                  "sass-library",
+                  "sass-mixins",
+                  "scss"
+                ]
+              },
+              "first_seen": "2026-08-28T06:58:08.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Water.css",
+              "description": "Just-add-CSS collection of styles to make simple websites just a little nicer. Repo | #CSS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A drop-in collection of CSS styles to make simple websites just a little nicer",
+                "homepage": "https://watercss.kognise.dev",
+                "id": 179574410,
+                "language": "CSS",
+                "license": "MIT",
+                "last_commit": "2024-02-11T14:50:20Z",
+                "open_issues": 90,
+                "owner": "kognise",
+                "repo": "water.css",
+                "stars": 8652,
+                "topics": [
+                  "css",
+                  "css-framework",
+                  "hacktoberfest",
+                  "minimal",
+                  "simple"
+                ]
+              },
+              "first_seen": "2026-08-28T06:58:08.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "sanitize.css",
+              "description": "The best-practices CSS foundation. Repo | #CSS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A best-practices CSS foundation",
+                "homepage": "https://csstools.github.io/sanitize.css",
+                "id": 6566489,
+                "language": "CSS",
+                "license": "CC0-1.0",
+                "last_commit": "2026-03-26T11:31:36Z",
+                "open_issues": 22,
+                "owner": "csstools",
+                "repo": "sanitize.css",
+                "stars": 5309,
+                "topics": [
+                  "css",
+                  "normalization",
+                  "opinionated"
+                ]
+              },
+              "first_seen": "2026-08-28T06:58:08.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "modern-css-reset",
+              "description": "Tiny little reset that you can use as the basis of your CSS projects. Repo | #CSS",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "A bare-bones CSS reset for modern web development.",
+                "homepage": "https://hankchizljaw.com/wrote/a-modern-css-reset/",
+                "id": 212096660,
+                "language": "CSS",
+                "license": "MIT",
+                "last_commit": "2023-09-26T10:43:23Z",
+                "open_issues": 20,
+                "owner": "Andy-set-studio",
+                "repo": "modern-css-reset",
+                "stars": 2955,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:58:08.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "minireset.css",
+              "description": "Tiny modern CSS reset. Repo | #Sass",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A tiny modern CSS reset",
+                "homepage": "http://jgthms.com/minireset.css/",
+                "id": 66643668,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2024-07-11T11:58:27Z",
+                "open_issues": 16,
+                "owner": "jgthms",
+                "repo": "minireset.css",
+                "stars": 2800,
+                "topics": [
+                  "css",
+                  "reset"
+                ]
+              },
+              "first_seen": "2026-08-28T06:58:08.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CSS Remedy",
+              "description": "Start your project with a remedy for the technical debt of CSS. | #CSS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Start your project with a remedy for the technical debt of CSS. ",
+                "homepage": null,
+                "id": 165123638,
+                "language": "CSS",
+                "license": "MPL-2.0",
+                "last_commit": "2022-07-07T22:11:37Z",
+                "open_issues": 37,
+                "owner": "jensimmons",
+                "repo": "cssremedy",
+                "stars": 2224,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T06:58:08.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Blaze UI",
+              "description": "Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation. Demo, Docs, Repo | #SCSS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Atoms for Blaze UI",
+                "homepage": "https://www.blazeui.com",
+                "id": 46132380,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2023-06-20T15:07:47Z",
+                "open_issues": 4,
+                "owner": "BlazeSoftware",
+                "repo": "atoms",
+                "stars": 1551,
+                "topics": [
+                  "bem",
+                  "css",
+                  "itcss",
+                  "jsx",
+                  "sass",
+                  "scss",
+                  "stencil",
+                  "stenciljs",
+                  "toolkit",
+                  "webcomponents"
+                ]
+              },
+              "first_seen": "2026-08-28T06:58:08.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Concise CSS",
+              "description": "Give up the bloat. Stop tripping over your classes. Be concise. Docs, Repo | #SCSS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A CSS framework that's lightweight and easy-to-use. Give up the bloat. Stop tripping over your classes. Be Concise.",
+                "homepage": "http://concisecss.com",
+                "id": 20370985,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2023-04-15T20:07:42Z",
+                "open_issues": 8,
+                "owner": "ConciseCSS",
+                "repo": "concise.css",
+                "stars": 928,
+                "topics": [
+                  "css",
+                  "design",
+                  "framework",
+                  "minimalist",
+                  "postcss",
+                  "sass"
+                ]
+              },
+              "first_seen": "2026-08-28T06:58:08.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Responsive Boilerplate",
+              "description": "Powerful, accessible, developer friendly framework for building responsive websites. Docs, Repo | #SCSS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": ":iphone: A super lightweight HTML, Sass, CSS, and JavaScript framework for building responsive websites",
+                "homepage": "http://responsivebp.com",
+                "id": 10639547,
+                "language": "HTML",
+                "license": "MIT",
+                "last_commit": "2023-07-19T00:48:21Z",
+                "open_issues": 14,
+                "owner": "ResponsiveBP",
+                "repo": "Responsive",
+                "stars": 870,
+                "topics": [
+                  "accessibility",
+                  "css",
+                  "html5",
+                  "javascript",
+                  "responsive-grid",
+                  "rwd",
+                  "sass"
+                ]
+              },
+              "first_seen": "2026-08-28T06:58:08.433Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Show Section"
         }
       ],
-      "title": "Show Section"
+      "title": "Stalled Development"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:06:48.198Z",
+    "last_updated": "2026-10-03T04:39:02.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome CSS frameworks in 2026",
