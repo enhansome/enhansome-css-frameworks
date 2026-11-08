@@ -92,40 +92,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Pico.css",
-          "description": "Elegant styles for all native HTML elements, dark mode automatically enabled. Demo, Docs, Repo | #SCSS",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Minimal CSS Framework for semantic HTML",
-            "homepage": "https://picocss.com",
-            "id": 221892711,
-            "language": "CSS",
-            "license": "MIT",
-            "last_commit": "2026-10-04T04:00:49Z",
-            "open_issues": 124,
-            "owner": "picocss",
-            "repo": "pico",
-            "stars": 16823,
-            "topics": [
-              "css",
-              "css-framework",
-              "dark-mode",
-              "dark-theme",
-              "lightweight",
-              "minimal",
-              "minimalist",
-              "minimalistic",
-              "native-html",
-              "scss",
-              "scss-framework",
-              "semantic"
-            ]
-          },
-          "first_seen": "2026-08-28T06:58:08.433Z"
-        },
-        {
-          "node_type": "item",
           "title": "MVP.css",
           "description": "Minimalist stylesheet for HTML elements. Docs, Repo | #CSS",
           "children": [],
@@ -218,7 +184,7 @@
             "id": 33565912,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-11-07T00:37:34Z",
+            "last_commit": "2026-11-07T16:49:07Z",
             "open_issues": 9,
             "owner": "yegor256",
             "repo": "tacit",
@@ -287,34 +253,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Chota",
-          "description": "Really small CSS framework. Demo, Docs, Repo | #CSS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A micro (3kb) CSS framework",
-            "homepage": "https://jenil.github.io/chota/",
-            "id": 86660875,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2026-10-13T05:16:40Z",
-            "open_issues": 31,
-            "owner": "jenil",
-            "repo": "chota",
-            "stars": 1549,
-            "topics": [
-              "css",
-              "framework",
-              "front-end",
-              "minimal",
-              "web",
-              "website"
-            ]
-          },
-          "first_seen": "2026-08-28T06:58:08.433Z"
         }
       ],
       "title": "Very Lightweight"
@@ -334,11 +272,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-11-06T23:44:59Z",
-            "open_issues": 304,
+            "last_commit": "2026-11-07T21:36:01Z",
+            "open_issues": 310,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 175013,
+            "stars": 175019,
             "topics": [
               "bootstrap",
               "css",
@@ -416,8 +354,8 @@
             "id": 11507163,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-05T20:25:02Z",
-            "open_issues": 617,
+            "last_commit": "2026-11-07T14:08:49Z",
+            "open_issues": 618,
             "owner": "uikit",
             "repo": "uikit",
             "stars": 18536,
@@ -469,11 +407,11 @@
             "id": 84835535,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T00:35:47Z",
-            "open_issues": 1100,
+            "last_commit": "2026-11-07T14:11:46Z",
+            "open_issues": 1107,
             "owner": "carbon-design-system",
             "repo": "carbon",
-            "stars": 9607,
+            "stars": 9608,
             "topics": [
               "design-system",
               "hacktoberfest",
@@ -554,8 +492,8 @@
             "id": 77105582,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-11-02T04:32:08Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-07T07:47:00Z",
+            "open_issues": 28,
             "owner": "Spiderpig86",
             "repo": "Cirrus",
             "stars": 1432,
@@ -594,7 +532,7 @@
             "id": 31207344,
             "language": "HTML",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-06T04:54:10Z",
+            "last_commit": "2026-11-08T02:23:16Z",
             "open_issues": 265,
             "owner": "canonical",
             "repo": "vanilla-framework",
@@ -707,7 +645,7 @@
             "open_issues": 31,
             "owner": "beercss",
             "repo": "beercss",
-            "stars": 2633,
+            "stars": 2635,
             "topics": [
               "css",
               "design-system",
@@ -773,10 +711,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-06T14:50:08Z",
-            "open_issues": 115,
+            "open_issues": 113,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 98169,
+            "stars": 98502,
             "topics": [
               "css",
               "css-framework",
@@ -805,7 +743,7 @@
             "open_issues": 77,
             "owner": "argyleink",
             "repo": "open-props",
-            "stars": 5568,
+            "stars": 5569,
             "topics": [
               "css",
               "css-colors",
@@ -841,7 +779,7 @@
             "open_issues": 78,
             "owner": "nostalgic-css",
             "repo": "NES.css",
-            "stars": 21852,
+            "stars": 21853,
             "topics": [
               "8bit",
               "css",
@@ -868,7 +806,7 @@
             "open_issues": 44,
             "owner": "jdan",
             "repo": "98.css",
-            "stars": 11596,
+            "stars": 11603,
             "topics": [
               "css",
               "design-system",
@@ -949,7 +887,7 @@
             "open_issues": 10,
             "owner": "sakofchit",
             "repo": "system.css",
-            "stars": 3930,
+            "stars": 3929,
             "topics": [
               "classic-macos",
               "css",
@@ -998,7 +936,7 @@
             "open_issues": 10,
             "owner": "khang-nd",
             "repo": "7.css",
-            "stars": 2483,
+            "stars": 2485,
             "topics": [
               "css",
               "html",
@@ -1135,7 +1073,7 @@
                 "open_issues": 1071,
                 "owner": "Semantic-Org",
                 "repo": "Semantic-UI",
-                "stars": 50999,
+                "stars": 50997,
                 "topics": [
                   "button",
                   "css-framework",
@@ -1167,13 +1105,47 @@
                 "open_issues": 0,
                 "owner": "material-components",
                 "repo": "material-components-web",
-                "stars": 17031,
+                "stars": 17030,
                 "topics": [
                   "css",
                   "javascript",
                   "material-components",
                   "material-design",
                   "web"
+                ]
+              },
+              "first_seen": "2026-08-28T06:58:08.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Pico.css",
+              "description": "Elegant styles for all native HTML elements, dark mode automatically enabled. Demo, Docs, Repo | #SCSS",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Minimal CSS Framework for semantic HTML",
+                "homepage": "https://picocss.com",
+                "id": 221892711,
+                "language": "CSS",
+                "license": "MIT",
+                "last_commit": "2026-10-04T04:00:49Z",
+                "open_issues": 124,
+                "owner": "picocss",
+                "repo": "pico",
+                "stars": 16822,
+                "topics": [
+                  "css",
+                  "css-framework",
+                  "dark-mode",
+                  "dark-theme",
+                  "lightweight",
+                  "minimal",
+                  "minimalist",
+                  "minimalistic",
+                  "native-html",
+                  "scss",
+                  "scss-framework",
+                  "semantic"
                 ]
               },
               "first_seen": "2026-08-28T06:58:08.433Z"
@@ -1194,7 +1166,7 @@
                 "open_issues": 89,
                 "owner": "tachyons-css",
                 "repo": "tachyons",
-                "stars": 11726,
+                "stars": 11725,
                 "topics": [
                   "css",
                   "design",
@@ -1235,33 +1207,6 @@
                   "sass-library",
                   "sass-mixins",
                   "scss"
-                ]
-              },
-              "first_seen": "2026-08-28T06:58:08.433Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Water.css",
-              "description": "Just-add-CSS collection of styles to make simple websites just a little nicer. Repo | #CSS",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A drop-in collection of CSS styles to make simple websites just a little nicer",
-                "homepage": "https://watercss.kognise.dev",
-                "id": 179574410,
-                "language": "CSS",
-                "license": "MIT",
-                "last_commit": "2024-02-11T14:50:20Z",
-                "open_issues": 90,
-                "owner": "kognise",
-                "repo": "water.css",
-                "stars": 8656,
-                "topics": [
-                  "css",
-                  "css-framework",
-                  "hacktoberfest",
-                  "minimal",
-                  "simple"
                 ]
               },
               "first_seen": "2026-08-28T06:58:08.433Z"
@@ -1352,8 +1297,36 @@
                 "open_issues": 37,
                 "owner": "jensimmons",
                 "repo": "cssremedy",
-                "stars": 2223,
+                "stars": 2224,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T06:58:08.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Chota",
+              "description": "Really small CSS framework. Demo, Docs, Repo | #CSS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A micro (3kb) CSS framework",
+                "homepage": "https://jenil.github.io/chota/",
+                "id": 86660875,
+                "language": "HTML",
+                "license": "MIT",
+                "last_commit": "2026-10-13T05:16:40Z",
+                "open_issues": 31,
+                "owner": "jenil",
+                "repo": "chota",
+                "stars": 1549,
+                "topics": [
+                  "css",
+                  "framework",
+                  "front-end",
+                  "minimal",
+                  "web",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T06:58:08.433Z"
             },
@@ -1456,7 +1429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T02:56:31.235Z",
+    "last_updated": "2026-11-08T02:33:57.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome CSS frameworks in 2026",
@@ -1464,11 +1437,11 @@
       "id": 102095278,
       "language": "CSS",
       "license": null,
-      "last_commit": "2026-06-08T20:32:07Z",
+      "last_commit": "2026-11-07T21:20:23Z",
       "open_issues": 4,
       "owner": "troxler",
       "repo": "awesome-css-frameworks",
-      "stars": 9580,
+      "stars": 9583,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1480,7 +1453,7 @@
         "scss"
       ]
     },
-    "original_repository_sha": "6333f76fdd9b5d4e5a6341e95287cea68a8c0dde",
+    "original_repository_sha": "363b95ca360d8ef03959fc4a973b210979e192ac",
     "enhanced_repository": "enhansome/enhansome-css-frameworks",
     "enhanced_repository_description": null,
     "title": "Awesome CSS Frameworks with stars"
