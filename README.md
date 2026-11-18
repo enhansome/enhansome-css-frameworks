@@ -18,9 +18,9 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 
 ## Base / Reset / Normalize
 
-* [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) ⭐ 7,442 | 🐛 28 | 🌐 TypeScript | 📅 2026-09-18 - Normalize browsers' default style.\
+* [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) ⭐ 7,444 | 🐛 28 | 🌐 TypeScript | 📅 2026-09-18 - Normalize browsers' default style.\
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social\&label=Star)
-  [Repo](https://github.com/sindresorhus/modern-normalize) ⭐ 7,442 | 🐛 28 | 🌐 TypeScript | 📅 2026-09-18
+  [Repo](https://github.com/sindresorhus/modern-normalize) ⭐ 7,444 | 🐛 28 | 🌐 TypeScript | 📅 2026-09-18
   \| #CSS
 
 * [**ress**](https://github.com/filipelinhares/ress) ⭐ 2,083 | 🐛 2 | 🌐 CSS | 📅 2026-08-08 - Modern CSS reset.\
@@ -45,8 +45,8 @@ Frameworks that use semantic HTML and do not rely on classes.
 * [**Simple.css**](https://simplecss.org/) - Lightweight, classless CSS framework.\
   ![](https://img.shields.io/github/stars/kevquirk/simple.css?style=social\&label=Star)
   [Demo](https://simplecss.org/demo),
-  [Docs](https://github.com/kevquirk/simple.css/wiki) ⭐ 5,031 | 🐛 1 | 🌐 HTML | 📅 2026-07-19,
-  [Repo](https://github.com/kevquirk/simple.css/) ⭐ 5,031 | 🐛 1 | 🌐 HTML | 📅 2026-07-19
+  [Docs](https://github.com/kevquirk/simple.css/wiki) ⭐ 5,029 | 🐛 1 | 🌐 HTML | 📅 2026-07-19,
+  [Repo](https://github.com/kevquirk/simple.css/) ⭐ 5,029 | 🐛 1 | 🌐 HTML | 📅 2026-07-19
   \| #CSS
 
 * [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.\
@@ -68,14 +68,14 @@ Frameworks that are smaller than \~10KB.
   ![](https://img.shields.io/github/stars/pure-css/pure.svg?style=social\&label=Star)
   [Demo](https://purecss.io/layouts/),
   [Docs](https://purecss.io/start/),
-  [Repo](https://github.com/pure-css/pure) ⭐ 23,713 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-16
+  [Repo](https://github.com/pure-css/pure) ⭐ 23,714 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-17
   \| #CSS
 
 * [**Picnic CSS**](https://picnicss.com) - Lightweight and beautiful library.\
   ![](https://img.shields.io/github/stars/franciscop/picnic.svg?style=social\&label=Star)
   [Demo](https://picnicss.com/tests),
   [Docs](https://picnicss.com/documentation),
-  [Repo](https://github.com/franciscop/picnic) ⭐ 3,873 | 🐛 16 | 🌐 CSS | 📅 2026-10-31
+  [Repo](https://github.com/franciscop/picnic) ⭐ 3,872 | 🐛 16 | 🌐 CSS | 📅 2026-10-31
   \| #SCSS
 
 ## General Purpose
@@ -84,7 +84,7 @@ Frameworks that are smaller than \~10KB.
   ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social\&label=Star)
   [Demo](https://getbootstrap.com/docs/4.0/examples/),
   [Docs](https://getbootstrap.com/docs/4.0/),
-  [Repo](https://github.com/twbs/bootstrap) ⭐ 175,073 | 🐛 316 | 🌐 MDX | 📅 2026-11-16
+  [Repo](https://github.com/twbs/bootstrap) ⭐ 175,082 | 🐛 319 | 🌐 MDX | 📅 2026-11-17
   \| #SCSS
 
 * [**Bulma**](https://bulma.io) - Modern CSS framework based on Flexbox.\
@@ -98,38 +98,38 @@ Frameworks that are smaller than \~10KB.
   ![](https://img.shields.io/github/stars/zurb/foundation-sites.svg?style=social\&label=Star)
   [Demo](https://get.foundation/templates.html),
   [Docs](https://get.foundation/sites/docs/),
-  [Repo](https://github.com/foundation/foundation-sites) ⭐ 29,816 | 🐛 81 | 🌐 JavaScript | 📅 2026-11-06
+  [Repo](https://github.com/foundation/foundation-sites) ⭐ 29,818 | 🐛 81 | 🌐 JavaScript | 📅 2026-11-06
   \| #SCSS
 
 * [**UIkit**](https://getuikit.com) - Lightweight and modular front-end framework for developing fast and powerful web interfaces.\
   ![](https://img.shields.io/github/stars/uikit/uikit.svg?style=social\&label=Star)
   [Demo](https://getuikit.com/v2/showcase/index.html),
   [Docs](https://getuikit.com/docs/introduction),
-  [Repo](https://github.com/uikit/uikit) ⭐ 18,537 | 🐛 618 | 🌐 HTML | 📅 2026-11-16
+  [Repo](https://github.com/uikit/uikit) ⭐ 18,538 | 🐛 618 | 🌐 HTML | 📅 2026-11-16
   \| #LESS #SCSS
 
 * [**Primer**](https://primer.style/) - CSS framework that powers GitHub's front-end design.\
   ![](https://img.shields.io/github/stars/primer/css.svg?style=social\&label=Star)
   [Docs](https://primer.style/css/),
-  [Repo](https://github.com/primer/css) ⭐ 13,056 | 🐛 4 | 🌐 SCSS | 📅 2026-11-15
+  [Repo](https://github.com/primer/css) ⭐ 13,057 | 🐛 4 | 🌐 SCSS | 📅 2026-11-17
   \| #SCSS
 
 * [**Carbon Components**](https://www.carbondesignsystem.com/) - Component library behind IBM's Carbon Design System.\
   ![](https://img.shields.io/github/stars/carbon-design-system/carbon-components.svg?style=social\&label=Star)
   [Docs](https://www.carbondesignsystem.com/components/overview/),
-  [Repo](https://github.com/carbon-design-system/carbon) ⭐ 9,628 | 🐛 1,094 | 🌐 TypeScript | 📅 2026-11-16
+  [Repo](https://github.com/carbon-design-system/carbon) ⭐ 9,628 | 🐛 1,087 | 🌐 TypeScript | 📅 2026-11-18
   \| #SCSS
 
 * [**U.S. Web Design System**](https://designsystem.digital.gov/) - Components used by U.S. federal government websites.\
   ![](https://img.shields.io/github/stars/uswds/uswds.svg?style=social\&label=Star)
   [Docs](https://designsystem.digital.gov/components/overview/),
-  [Repo](https://github.com/uswds/uswds) ⭐ 7,247 | 🐛 185 | 🌐 JavaScript | 📅 2026-11-04
+  [Repo](https://github.com/uswds/uswds) ⭐ 7,248 | 🐛 185 | 🌐 JavaScript | 📅 2026-11-04
   \| #SCSS
 
 * [**Fomantic-UI**](https://fomantic-ui.com/) - Build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging.\
   ![](https://img.shields.io/github/stars/fomantic/fomantic-ui.svg?style=social\&label=Star)
   [Docs](https://fomantic-ui.com/introduction/getting-started.html),
-  [Repo](https://github.com/fomantic/fomantic-ui/) ⭐ 3,772 | 🐛 255 | 🌐 JavaScript | 📅 2026-11-13
+  [Repo](https://github.com/fomantic/fomantic-ui/) ⭐ 3,772 | 🐛 256 | 🌐 JavaScript | 📅 2026-11-17
   \| #LESS
 
 * [**Cirrus**](https://cirrus-ui.netlify.app/) - Component and utility centric SCSS framework designed for rapid prototyping.\
@@ -143,20 +143,20 @@ Frameworks that are smaller than \~10KB.
   ![](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=social\&label=Star)
   [Demo](https://vanillaframework.io/docs/examples),
   [Docs](https://vanillaframework.io/docs/),
-  [Repo](https://github.com/canonical/vanilla-framework) ⭐ 993 | 🐛 269 | 🌐 HTML | 📅 2026-11-16
+  [Repo](https://github.com/canonical/vanilla-framework) ⭐ 994 | 🐛 266 | 🌐 HTML | 📅 2026-11-17
   \| #SCSS
 
 * [**PatternFly**](https://www.patternfly.org/) - UI framework for enterprise web applications.\
   ![](https://img.shields.io/github/stars/patternfly/patternfly.svg?style=social\&label=Star)
   [Demo](https://www.patternfly.org/patterns/about-patterns),
   [Docs](https://www.patternfly.org/get-started/),
-  [Repo](https://github.com/patternfly/patternfly) ⭐ 824 | 🐛 279 | 🌐 SCSS | 📅 2026-11-16
+  [Repo](https://github.com/patternfly/patternfly) ⭐ 824 | 🐛 279 | 🌐 SCSS | 📅 2026-11-18
   \| #SCSS #LESS
 
 * [**Stacks**](https://stackoverflow.design/) - UI components used by Stack Overflow.\
   ![](https://img.shields.io/github/stars/StackExchange/Stacks.svg?style=social\&label=Star)
   [Docs](https://stackoverflow.design/product/develop/using-stacks/),
-  [Repo](https://github.com/StackExchange/Stacks) ⭐ 681 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-16
+  [Repo](https://github.com/StackExchange/Stacks) ⭐ 682 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-16
   \| #LESS
 
 * [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.\
@@ -169,7 +169,7 @@ Frameworks that are smaller than \~10KB.
 
 * [**Beer CSS**](https://www.beercss.com) - Build material design interfaces in record time without stress for devs.\
   ![](https://img.shields.io/github/stars/beercss/beercss.svg?style=social\&label=Star)
-  [Repo](https://github.com/beercss/beercss) ⭐ 2,640 | 🐛 33 | 🌐 Vue | 📅 2026-11-11
+  [Repo](https://github.com/beercss/beercss) ⭐ 2,641 | 🐛 33 | 🌐 Vue | 📅 2026-11-11
   \| #CSS
 
 * [**Materialize**](https://materializecss.github.io/materialize/) - Responsive front-end library based on Google's Material Design.\
@@ -183,14 +183,14 @@ Frameworks that are smaller than \~10KB.
 * [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.\
   ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social\&label=Star)
   [Docs](https://tailwindcss.com/docs),
-  [Repo](https://github.com/tailwindlabs/tailwindcss) ⭐ 98,709 | 🐛 122 | 🌐 TypeScript | 📅 2026-11-16
+  [Repo](https://github.com/tailwindlabs/tailwindcss) ⭐ 98,761 | 🐛 111 | 🌐 TypeScript | 📅 2026-11-17
   \| #CSS
 
 * [**Open Props**](https://open-props.style) - CSS custom properties to help accelerate adaptive and consistent design.\
   ![](https://img.shields.io/github/stars/argyleink/open-props.svg?style=social\&label=Star)
   [Demo](https://open-props.style/#gallery),
   [Docs](https://open-props.style/#getting-started),
-  [Repo](https://github.com/argyleink/open-props/) ⭐ 5,577 | 🐛 77 | 🌐 HTML | 📅 2026-10-11
+  [Repo](https://github.com/argyleink/open-props/) ⭐ 5,578 | 🐛 77 | 🌐 HTML | 📅 2026-10-11
   \| #CSS #PostCSS
 
 ## Specialized
@@ -198,13 +198,13 @@ Frameworks that are smaller than \~10KB.
 * [**NES.css**](https://nostalgic-css.github.io/NES.css/) - NES-style CSS Framework.\
   ![](https://img.shields.io/github/stars/nostalgic-css/NES.css.svg?style=social\&label=Star)
   [Demo](https://nostalgic-css.github.io/NES.css/),
-  [Docs](https://github.com/nostalgic-css/NES.css#installation) ⭐ 21,859 | 🐛 78 | 🌐 SCSS | 📅 2024-01-17,
-  [Repo](https://github.com/nostalgic-css/NES.css) ⭐ 21,859 | 🐛 78 | 🌐 SCSS | 📅 2024-01-17
+  [Docs](https://github.com/nostalgic-css/NES.css#installation) ⭐ 21,861 | 🐛 78 | 🌐 SCSS | 📅 2024-01-17,
+  [Repo](https://github.com/nostalgic-css/NES.css) ⭐ 21,861 | 🐛 78 | 🌐 SCSS | 📅 2024-01-17
   \| #SCSS
 
 * [**98.css**](https://jdan.github.io/98.css/) - CSS library for building interfaces that look like Windows 98.\
   ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social\&label=Star)
-  [Repo](https://github.com/jdan/98.css) ⭐ 11,629 | 🐛 44 | 🌐 CSS | 📅 2025-09-07
+  [Repo](https://github.com/jdan/98.css) ⭐ 11,630 | 🐛 44 | 🌐 CSS | 📅 2025-09-07
   \| #CSS
 
 * [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - Style your webpage like Edward Tufte’s handouts.\
@@ -225,7 +225,7 @@ Frameworks that are smaller than \~10KB.
 
 * [**XP.css**](https://botoxparty.github.io/XP.css/) - CSS library for building interfaces that look like Windows XP.\
   ![](https://img.shields.io/github/stars/botoxparty/XP.css.svg?style=social\&label=Star)
-  [Repo](https://github.com/botoxparty/XP.css) ⭐ 3,151 | 🐛 24 | 🌐 SCSS | 📅 2025-03-08
+  [Repo](https://github.com/botoxparty/XP.css) ⭐ 3,153 | 🐛 24 | 🌐 SCSS | 📅 2025-03-08
   \| #PostCSS
 
 * [**7.css**](https://khang-nd.github.io/7.css/) - CSS library for building interfaces that look like Windows 7.\
@@ -262,7 +262,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
 * [**Semantic UI**](https://semantic-ui.com) - User interface is the language of the web.\
   ![](https://img.shields.io/github/stars/semantic-org/semantic-ui.svg?style=social\&label=Star)
   [Docs](https://semantic-ui.com/introduction/getting-started.html),
-  [Repo](https://github.com/semantic-org/semantic-ui) ⭐ 50,991 | 🐛 1,071 | 🌐 JavaScript | 📅 2024-11-27
+  [Repo](https://github.com/semantic-org/semantic-ui) ⭐ 50,992 | 🐛 1,071 | 🌐 JavaScript | 📅 2024-11-27
   \| #LESS
 
 * [**Material Components Web**](https://material.io/components/web/) - Modular and customizable Material Design UI components for the web.\
@@ -283,7 +283,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
   ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social\&label=Star)
   [Demo](https://tachyons.io/gallery/),
   [Docs](https://tachyons.io/docs/),
-  [Repo](https://github.com/tachyons-css/tachyons/) ⭐ 11,729 | 🐛 89 | 🌐 CSS | 📅 2026-07-20
+  [Repo](https://github.com/tachyons-css/tachyons/) ⭐ 11,730 | 🐛 89 | 🌐 CSS | 📅 2026-07-20
   \| #CSS
 
 * [**Bourbon**](https://www.bourbon.io/) - Lightweight Sass tool set.\
@@ -294,7 +294,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
 
 * [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.\
   ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social\&label=Star)
-  [Repo](https://github.com/csstools/sanitize.css) ⭐ 5,309 | 🐛 22 | 🌐 CSS | 📅 2026-03-26
+  [Repo](https://github.com/csstools/sanitize.css) ⭐ 5,311 | 🐛 22 | 🌐 CSS | 📅 2026-03-26
   \| #CSS
 
 * [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) ⚠️ Archived - Tiny little reset that you can use as the basis of your CSS projects.\
@@ -347,8 +347,8 @@ License [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/):
 
 > You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
-Images of GitHub stars are provided by [Shields](https://github.com/badges/shields) ⭐ 27,406 | 🐛 300 | 🌐 JavaScript | 📅 2026-11-14.
+Images of GitHub stars are provided by [Shields](https://github.com/badges/shields) ⭐ 27,410 | 🐛 302 | 🌐 JavaScript | 📅 2026-11-14.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
