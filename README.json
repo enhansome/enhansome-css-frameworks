@@ -19,7 +19,7 @@
             "open_issues": 28,
             "owner": "sindresorhus",
             "repo": "modern-normalize",
-            "stars": 7448,
+            "stars": 7449,
             "topics": [
               "css",
               "css-library",
@@ -47,7 +47,7 @@
             "open_issues": 2,
             "owner": "filipelinhares",
             "repo": "ress",
-            "stars": 2083,
+            "stars": 2084,
             "topics": [
               "css",
               "reset",
@@ -133,7 +133,7 @@
             "open_issues": 1,
             "owner": "kevquirk",
             "repo": "simple.css",
-            "stars": 5031,
+            "stars": 5032,
             "topics": [
               "css",
               "css3",
@@ -184,8 +184,8 @@
             "id": 33565912,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-11-18T08:38:37Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-22T02:14:46Z",
+            "open_issues": 8,
             "owner": "yegor256",
             "repo": "tacit",
             "stars": 1878,
@@ -272,11 +272,11 @@
             "id": 2126244,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T01:17:12Z",
-            "open_issues": 272,
+            "last_commit": "2026-11-21T21:48:22Z",
+            "open_issues": 270,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 175104,
+            "stars": 175109,
             "topics": [
               "bootstrap",
               "css",
@@ -305,7 +305,7 @@
             "open_issues": 532,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50035,
+            "stars": 50034,
             "topics": [
               "css",
               "css-framework",
@@ -379,7 +379,7 @@
             "open_issues": 8,
             "owner": "primer",
             "repo": "css",
-            "stars": 13058,
+            "stars": 13060,
             "topics": [
               "css",
               "design-system",
@@ -407,8 +407,8 @@
             "id": 84835535,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T03:47:58Z",
-            "open_issues": 1197,
+            "last_commit": "2026-11-21T23:10:59Z",
+            "open_issues": 1200,
             "owner": "carbon-design-system",
             "repo": "carbon",
             "stars": 9635,
@@ -438,7 +438,7 @@
             "open_issues": 185,
             "owner": "uswds",
             "repo": "uswds",
-            "stars": 7248,
+            "stars": 7250,
             "topics": [
               "design",
               "design-systems",
@@ -492,8 +492,8 @@
             "id": 77105582,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-11-16T04:27:56Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-21T07:24:31Z",
+            "open_issues": 28,
             "owner": "Spiderpig86",
             "repo": "Cirrus",
             "stars": 1432,
@@ -566,7 +566,7 @@
             "language": "SCSS",
             "license": "MIT",
             "last_commit": "2026-11-20T19:20:16Z",
-            "open_issues": 279,
+            "open_issues": 282,
             "owner": "patternfly",
             "repo": "patternfly",
             "stars": 825,
@@ -711,10 +711,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-20T18:53:02Z",
-            "open_issues": 112,
+            "open_issues": 115,
             "owner": "tailwindlabs",
             "repo": "tailwindcss",
-            "stars": 98716,
+            "stars": 98698,
             "topics": [
               "css",
               "css-framework",
@@ -779,7 +779,7 @@
             "open_issues": 78,
             "owner": "nostalgic-css",
             "repo": "NES.css",
-            "stars": 21863,
+            "stars": 21862,
             "topics": [
               "8bit",
               "css",
@@ -806,7 +806,7 @@
             "open_issues": 44,
             "owner": "jdan",
             "repo": "98.css",
-            "stars": 11634,
+            "stars": 11635,
             "topics": [
               "css",
               "design-system",
@@ -856,7 +856,7 @@
             "open_issues": 7,
             "owner": "BafS",
             "repo": "Gutenberg",
-            "stars": 4922,
+            "stars": 4923,
             "topics": [
               "css",
               "css-framework",
@@ -887,7 +887,7 @@
             "open_issues": 10,
             "owner": "sakofchit",
             "repo": "system.css",
-            "stars": 3937,
+            "stars": 3938,
             "topics": [
               "classic-macos",
               "css",
@@ -915,7 +915,7 @@
             "open_issues": 24,
             "owner": "botoxparty",
             "repo": "XP.css",
-            "stars": 3156,
+            "stars": 3155,
             "topics": []
           },
           "first_seen": "2026-08-28T06:58:08.433Z"
@@ -1073,7 +1073,7 @@
                 "open_issues": 1071,
                 "owner": "Semantic-Org",
                 "repo": "Semantic-UI",
-                "stars": 50993,
+                "stars": 50994,
                 "topics": [
                   "button",
                   "css-framework",
@@ -1105,7 +1105,7 @@
                 "open_issues": 0,
                 "owner": "material-components",
                 "repo": "material-components-web",
-                "stars": 17022,
+                "stars": 17023,
                 "topics": [
                   "css",
                   "javascript",
@@ -1132,7 +1132,7 @@
                 "open_issues": 124,
                 "owner": "picocss",
                 "repo": "pico",
-                "stars": 16811,
+                "stars": 16810,
                 "topics": [
                   "css",
                   "css-framework",
@@ -1252,7 +1252,7 @@
                 "open_issues": 20,
                 "owner": "Andy-set-studio",
                 "repo": "modern-css-reset",
-                "stars": 2952,
+                "stars": 2951,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:58:08.433Z"
@@ -1429,7 +1429,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T04:04:49.708Z",
+    "last_updated": "2026-11-22T03:17:09.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome CSS frameworks in 2026",
@@ -1441,7 +1441,7 @@
       "open_issues": 4,
       "owner": "troxler",
       "repo": "awesome-css-frameworks",
-      "stars": 9599,
+      "stars": 9600,
       "topics": [
         "awesome",
         "awesome-list",
